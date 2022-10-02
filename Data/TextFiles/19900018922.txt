@@ -1,0 +1,211 @@
+n
+spectral absorption of marine stratocumulus clouds derived
+from in situ cloud radiation measurements
+michael d king
+laboratory for atmospheres goddard space flight center nasa
+greenbelt md usa
+lawrence f radke and peter v hobbs
+department of atmospheric sciences university of washington
+seattle wa usa
+introduction
+a multiwavelength scanning radiometer has been used to measure the
+angular distribution of scattered radiation deep within a cloud layer at discrete
+wavelengths between and m the relative angular distribution of the
+intensity field at each wavelength is used to determine the similarity parame
+ter and hence single scattering albedo of the cloud at that wavelength using
+the diffusion domain method in addition to the spectral similarity parame
+ter the analysis provides a good estimate of the optical thickness of the cloud
+beneath the aircraft in addition to the radiation measurements we obtained
+microphysical and thermodynamic measurements from which the expected
+similarity parameter spectrum was calculated using accepted values of the re
+fractive index of liquid water and the transmission function of water vapor
+in this paper we present an analysis of the results obtained for a km
+section of clean marine stratocumulus clouds on july these observa
+tions were obtained off the coast of california from the university of wash
+ington convair ca aircraft as part of the first isccp regional experiment
+fire we will present a comparison of the experimentallyderived similar
+ity parameter spectrum with that expected theoretically from the cloud drop
+let size distribution measured simultaneously from the aircraft the mea
+surements and theory are in very close agreement for this case of clean mar
+itime clouds
+results from observations on july 
+on july the ca flew a tightly coordinated mission with the
+er aircraft consisting of continually flying legs of km in length the c
+a was primarily making cloud radiation and cloud microphysics mea
+surements deep within the cloud layer whereas the er was flying well
+above the clouds figure illustrates the zenith and nadir intensities as a
+function of distance time for measurements obtained inside clouds near the
+central portion of one of these flight lines these data corresponding to ob
+oo
+july
+lin
+l o
+t
+e
+l
+l
+e
+o
+e
+co
+z
+z
+distance kin
+fig zenith and nadir intensities as a function of distance along the flight track for
+measurements obtained inside the clouds between and pdt these measurements were
+obtained at a wavelength x im
+servations obtained with the cloud absorption radiometer king et al at
+m show that the zenith and nadir intensities were quite uniform
+within these clouds a careful examination of fig suggests that the data
+near the start of the flight line are too optically thin to have a diffusion do
+main as evidenced by very low zenith and nadir intensity measurements
+furthermore the measurements near and km though probably in a
+cloud of sufficient optical thickness to have a diffusion domain were ob
+tained too near the cloud top so the zenith measurements were contami
+nated by directly transmitted solar radiation
+the scaled optical thickness between the aircraft flight level and the base
+of the clouds was derived by applying the diffusion domain method to all
+scan lines of fig that satisfied the diffusion domain criteria see king et al
+for details figure illustrates the optical thickness c as a function of
+distance where we converted scaled optical thickness to optical thickness us
+ing the asymmetry factor g applicable to this wavelength 
+tm and derived for the measured cloud droplet size distribution of the 
+scan lines presented in fig passed the restrictive selection criteria de
+scribed in king et al among those measurements excluded from our
+analysis were the optically thin scans at the beginning of the time series and
+the measurements that were contaminated by the sun at distances of and
+km as expected the measurements between and km that had ai i i july 
+toiun
+o
+i
+o 
+o
+w
+z
+w
+o
+r
+i
+j
+o
+p
+i i i i i i 
+distance krn
+fig optical thickness beneath the aircraft for all measurements of fig that satisfy the
+diffusion domain criteria
+relatively low zenith intensity and relatively high nadir intensity correspond
+to a region of large optical thickness beneath the aircraft
+given the surface reflectivity and optical thickness or scaled optical thick
+ness of an individual scan at a specified wavelength the intensity ratio iz 
+i is reduced solely to a function of similarity parameter s utilizing
+formulas summarized in king et al we were thus able to calculate the
+intensity ratio as a function of similarity parameter and match this functional
+relationship with the measured intensity ratio to derive a value of the
+similarity parameter for a given measurement and wavelength
+figure illustrates the similarity parameter as a function of distance for
+four wavelengths of the car determined in this manner the similarity pa
+rameter s defined as s co g is a function of the asymmetry
+factor g and the single scattering albedo c the tendency for the similarity
+parameter to decrease with increasing distance especially noticeable at 
+and m is due to a modest decrease in the effective radius of the cloud
+droplets over this distance and not to a decrease in the absorption content of
+the cloud droplets themselves due to the use of a filter wheel to measure the
+intensity field in channels diffusion domain measurements were ob
+tained in this time interval for between and scans depending on filter
+position in contrast to for the first seven simultaneously sampled chan
+nelsi i i i
+i july 
+iun pdt
+f
+i t
+n 
+ro 
+oz if
+distance kin
+fig similarity parameter as a function of distance for four waveengths of the cloud
+absorption radiometer
+figure illustrates the mean and standard deviation of the spectral simi
+larity parameter for all thirteen channels of the car obtained from aircraft
+measurements on july although the conversion from s to is not
+unique due to the moderate spectral variation of g we have provided a sin
+gle scattering albedo scale in this figure as a matter of convenience this scale
+shown on the righthand side of fig is strictly applicable at k tm
+based on profile ascents and descents following these measurements the stra
+tocumulus cloud layer was determined to be m thick with a cloud base at
+m
+in addition to the experimental results obtained using the car fig il
+lustrates calculations of the similarity parameter as a function of wavelength
+for a cloud composed of water droplets only solid curve and droplets plus
+saturated vapor at c dashed curve the water droplet computations
+were based on a combination of mie theory and complex angular momentum
+theory nussenzveig and wiscombe applied to the measured cloud
+droplet size distribution the water vapor computations on the other hand
+were based on assuming the cloud to be composed of saturated vapor and ap
+plying the necessary pressure and temperature scaling to obtain an equivalent
+absorber amount w g cm the water vapor transmission functions
+were then computed for this cloud layer at a resolution of cm using
+lowtran kneizys et al the absorption optical depths thus ob
+i 
+zi i i
+july 
+calculations for
+droplets pdt
+droplets vapor
+measurements
+o
+from car i z
+u
+it l 
+lu rrl
+k l
+w i c
+o 
+m
+t 
+t f t
+j
+ill
+k
+if o
+c
+t i
+i i l i ly 
+i
+o
+o 
+wavililn tt iml
+fig calculations of the similarity parameter as a function of wavelength for water
+droplets alone solid line and drops plus vapor dashed line for the cloud droplet size distri
+bution and water vapor conditions of the marine stratocumulus cloud of july the single
+scattering albedo scale is valid at x itm where the cloud asymmetry factor g 
+the measurements derived from the cloud absorption radiometer solid circles with error bars
+are averages of the similarity parameter derived by applying the diffusion domain method to
+the km section of this cloud
+tained were combined with the corresponding optical properties for cloud
+droplets where we further assumed that the total cloud optical thickness re
+at a wavelength of pm
+the very close agreement between the measurements and theory shows
+that in this case the absorption of solar radiation by the clouds can be ac
+counted for largely by the droplets and that the large drops drizzle did not
+produce significant anomalous absorption based on these results we are
+forced to conclude that anomalous absorption as discussed by twomey
+davies et al and stephens and tsay was not significant in
+the marine stratocumulus clouds that we sampled on julyreferences
+davies r w l ridgway and k e kim spectral absorption of solar
+radiation in cloudy atmospheres a cm model j atmos sci 
+king m d m g strange p leone and l r blaine multiwavelength
+scanning radiometer for airborne measurements of scattered radiation
+within clouds j atmos oceanic tech 
+l f radke and p v hobbs determination of the spectral ab
+sorption of solar radiation by marine stratocumulus clouds from airborne
+measurements within clouds submitted to j atmos sci
+kneizys k x e p shettle w o gallery j h chetwynd jr l w abreu j
+e a selby r w fenn and r a mcclatchey atmospheric trans
+mittanceradiance computer code lowtran afgltr air
+force geophysics laboratories hanscom afb pp
+nussenzveig h m and w j wiscombe efficiency factors in mie scat
+tering phys rev lett 
+stephens g l and s c tsay on the cloud absorption anomaly
+submitted to quart j roy meteor soc
+twomey s computations of the absorption of solar radiation by
+clouds j atmos sci

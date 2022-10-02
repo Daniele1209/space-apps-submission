@@ -1,0 +1,261 @@
+n
+energy deposition of corpuscular radiation in the middle
+atmosphere
+k kudela
+inst exp physics slovak acad sci koice czechoslovakia
+introduction
+main components of corpuscular radiation contributing to
+energy deposition ed in ev cmss i in the atmosphere 
+km are cosmic ray nuclei cr galactic and solar and high
+energy electrons hee mainly of magnetospheric origin
+cosmic ray interaction in atmosphere
+two types of interactions with nuclei of air constituents are
+important inelastic nuclear interactions and coulomb collisions
+figure i shows the energy losses dedx range h in height scale
+and probability of inelastic nuclear interaction for proton in air
+nuclear data from janni 
+nuclear interactions lead to the decrease of initial cr flux
+due to fragmentation of nuclei and to the creation of new
+corpuscular particles and electromagnetic radiation above km
+i g cm less than protons he and of fe nuclei
+had their first nuclear interaction this fraction increases with
+decrease of h and below n km nuclear interactions must be
+included for ed calculations
+relations between the parent cr nuclei and their secondary
+products which again undergo nuclear interactions coulomb
+collisions and decay are complicated in datta et al it
+is recognized that gamma rays constitute the resultant component
+from different decay channels from the knowledge of vray profile
+and absorption coefficient of vrays in atmosphere the ion
+production rate pr edev was predicted which for middle
+latitude gave good agreement with direct pr measurement below 
+km figure illustrates profile of pr down to io km for low
+latitudes the main sources of pr variability are atmospheric
+density variations eg seasonal
+the coulomb collisions of cr nuclei in atmosphere lead to
+direct ionization the mean relative ionization energy loss
+dedx is given by bethebloch formula bbf velinov et al
+used bbf for pr computations of cr above km where
+coulomb collisions are dominant figure shows profiles of pr
+due to dependence in dedx heavy cr nuclei contribute
+significantly to the total pr by ionization cr protons being 
+of cr population give of pr while nuclei z only of
+cr give of total production for estimation of pr by
+cr figure i may be used
+three main factors control the ed of cr not assuming
+meteorological variations geomagnetic filter modulation effects
+of cr in heliosphere and solar cr impact
+first of them leads to the latitudinal om variations of ed
+profiles in real magnetic field accordlng trajectory calculation the approximation r i lzss l being mcilwans
+parameter and r rigidity of particle r pze gives realis
+tic estimate ofcvertica effective cutoff rigidity sheaet al
+this approach does not include fine structure of forbidden
+and allowed trajectories around r and nonvertical directions r
+c
+is changing during geomagnetic storms the approach to this prob 
+lem is in fluckiger et al the simplified estimates for
+d nt give for variation in pr qq and for
+st qq m
+m
+modulation of cr in solar cycle is the cause of ed variations
+by cr at higher latitudes charge state f anomalous ca oxygen up
+to mevn is now established to be i mcdonald et alj 
+biswas et al thus its rigidity is rather high at 
+the pr at h km may be affected by this ca component being
+strongly dependent on solarcycle phase these ions can be
+stripped by residual atmosphere and become stably trapped blake
+variety of solar flare particle energy spectra composition
+angular distribution and temporal profile near the earth may lead
+to changes in ed of ca at higher latitudes which could be
+significant for km
+hibh energy electaon deposition
+for electrons both angular scattering and energy losses
+should be included in calculation of ed in atmosphere walt
+scattering on orbital electrons is small in comparison with
+that on the nucleus however interactions with orbital electrons
+are important for energy losses the angular diffusion leads to
+large straggling of penetration depth reached by individual
+electrons calculation of electron ed is possible only by
+numerical methods for estimation figure show dependence of
+stoppingpower both collision ionization scol and radiative
+sr and range for electrons h taken from bergea and seltzer
+the concept of range for electron is different from that of
+protons and it can be used only for rough estimates the relative
+fraction of radiative losses increases with energy bremsstrahlung
+bs bs photons depositelthe energy by photoeffect and compton
+scattering for spectra expe the altitude profile of ed
+in atmosphere is on figure taken from berger et a ed
+by monoenergetic electrons was examined in crees giving
+estimate that only e kev are important below io km
+bs of electrons treated theoretically in walt et al
+seltzea and berger is used for remote sensing of
+electron precipitation from satellites imhof imhof et al
+a imhof et al b local measurements of balloons matt
+haeus et al and rockets sheldon eta 
+vampola and goaney used spectra of locally precipita
+ting electrons kev to calculate ed profiles powerlaw
+approximation in spectra yields in two maxima the main at 
+km where ed is comparable with ed by solar h on day side while
+on night side the ionization by electrons is dominating and
+secondary peak km due to bs during meagnetospheric substorms
+the electron precipitation pattern is drastically changing both
+temporaly and in local time eg gotselyuk et al gotse
+lyuk et al global distribution of electrons e kev atlow altitudes revealed connection of additional precipitation
+zones with manmadeactivity grigoryaent al detailed
+global distribution of heewas studied on ohzorsaatellite nagata
+et al 
+measurementswith good energy resolution showed the finer
+structure of electron precipitation preferentially on the night
+side electrons with hard spectra kev precipitate in
+narrow range of l near plasmapausecontributing thus significantly
+to edat km imhofet al electron spectra in inner
+belt l 
+exhibit strong peaks at kev datlowe
+et al thus profile of ed in middle atmosphere especially
+in south atlantic anomaly saa could have complicated form
+narrow peaks in precipitating electron spectra i kev
+within driftloss cone produced by vlf transmitters in inner zone
+are reported in imhof b similar conclusion in kev
+at outer edge of inner zone is in vampola later study
+vampola and adams revealed importance of vlf transmitters
+for hee precipitation in inner zone in the slot and outer zone
+theoretical approach assuming gyroresonant pitchangle scattering
+of electrons with waves both near equator as well as at low
+altitudes is well developed now inan neubert et al
+an attempt to measure stimulated precipitation of hee by
+powerful lf wave emitted from satellite is one of the objectives
+for aktivny satellitesubsatellite experiment schevchenko 
+tiska et al resonance conditions of measured electrons
+kev give for f xo khz the possible precipitation at
+l within the drift loss cone near the bounce loss cone
+boundary kudela 
+trapped electrons at geostationary orbit up to e mev are
+present and their intensity is associated with solar cycle
+activity baker et al while auroral electron precipitat
+ion is located in narrow interval around and may cause
+ed increase above km very hee can deposite energy at lower
+heights and in broad latitude range baker et al found
+significant enhancement of pr at km well above both cr and
+extreme uv ed this electron population could be important in
+coupling swmagnetosphere variability to the middle atmosphere
+compilation of pr in middle atmosphere by different measurements
+is presented on figure 
+in saa electrons even with higher energies e mev
+apparently not connected with above population have significant
+flux gusev et al and can conttribute to pr below km
+radiative losses are important for them too penetration of
+electrons from interplanetary space to high latitudes was studied
+by mcdiarmid et al and such hee were used as a sounding
+tool for magnetospheric boundary changes and their connection with
+imf and sw parameters kuznetsov et al kuznetsov et al
+their latitudinal extent is in some cases down to m 
+and their flux i cmsister i for e kev could contri
+bute to enhanced pr at km q
+summary
+galactic cr depending on solarcycle phase and latitude are
+dominant source of ed by corpuscular radiation below km
+below km secondaries must be assumed more accurate treatmentneed assuming of individual he solar flare particles cutoff
+rigidities in geomagnetic field and their changes during magneto
+spheric disturbances
+electrons e kev of magnetospheric origin penetrating to
+atmospherecontribute to prbelow kmespecially on night side
+high temporal variability localtime dependenceand complicated
+energy spectra lead to complicated structure of electron ed
+rate
+electrons of mev energy found at geostationary orbit pronouncing
+relation to solar and geomagnetic activity cause maximum ed at
+km
+monitoring the global distribution of ed by corpuscular
+radiation in middle atmosphere need continuing low altitude
+satellite measurements of both hee and xray bs from atmosphere
+as well as measurements of energy spectra and charge composition
+of he solar flare particles
+references
+dn baker et al jgeophysres a b
+dn baker et al eophys res lett 
+mj berger sm seltzer k maeda jatmos terrphys 
+mj berger sm seltzer stopping powers and ranges of electrons
+and positrons nd edition nbsir a february 
+s biswas et al astrophysics and space science 
+b blake cospar xxvii espoo finland p abstract
+p
+dw datlowe et al jgeophysres ag 
+j datta sc chakravarty ap mitra indian jradio space
+physics june p
+eo flckiger df smart ma shea jgeophysres a
+p 
+yuv gotselyuk et al studia geoph et geod 
+yuv gotselyuk et al studia geoph et geod 
+or grigoriyan et al kosm issled xix 
+aa gusev eta proc th icrc bangalore india m
+wl mhof space science reviews a
+wl imhof et al jgeophysres a b
+wl imhof et al jgeophysres a a
+wl imhof eta jseophysres aio b
+wl imhof et al jgeophys res a 
+us inan jgeophysres a 
+jf janni atomic data and nuclear data tables vl no 
+marchmay academic press nyork part 
+k kudela abstract on ursi conf on wave induced particle
+precipitation and wave particle interactions dunedin nz febr
+sn kuznecov et al bullastronlnstczech b 
+sn kuznecov et al physica scripta 
+dl matthews jgeophysres all 
+ib mcdiarmid et al geophysres 
+fb mcdonald et al the astrophys j l october 
+k nagata et al isas report rn tokyo japan pp 
+t neubert et al jgeophysres a 
+mh rees planet space sci 
+sm seltzer mj berger jatmos terrphysma shea df smart lc gentile physics of the earth and
+planetary interiors 
+wr sheldon jr benbrook ea bering revgeophys 
+vi shevchenko cosparxxvii espoo finland p di
+p tska et al cosparxxvi espoo finland p di
+al vampola dj gorney jgeophysres a 
+al vampola geophysreslett no g 
+al vampola cd adamsjgeophysres a 
+p velinov g nestorov ldorman the effects of cosmic radiation
+on the ionosphere and on the propagation of radiowaves in
+russian sofia bulgacadsci pp 
+m walt et a in physics of the magnetosphere d reidel
+publco dordrecht holland pp 
+m walt ll newkirk we francis jgeophysres a 
+hlkmj am ideelxevg cmi
+of
+id epmev
+lj pinet
+fig i energy losses of protonsaltkrn i 
+o
+o
+o 
+prcms
+fig i seasonal variation at solmax solmin
+for compiled from datta et al 
+altkm i i
+pcmsl
+fig solmax summer and solmin winter 
+max summer max winter min winter from velinov et al
+kin
+hkm scosrod ivlemgcm
+i
+eeflev 
+fig losses of energy of electron access to different
+latitudes is given at the topaltkm
+spectlum 
+c
+oo
+i i i i i
+edevcm
+fig ed for electron with initial isotropic distribution for
+i electronc mz from berger et al i
+altkm
+o
+o
+i i i 
+z 
+prcs
+fig b comparison of pr by corpuscular radiation i cr
+at max and min solar h scattered and
+direct due to electron precipitation at l quiet
+and kp due to very hee compilation from sheldon et
+al baker et al and vampola and gorney

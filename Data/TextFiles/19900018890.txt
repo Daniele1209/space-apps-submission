@@ -1,0 +1,159 @@
+n
+tiie naicialvlf eiission as diagostics aid ifstiltion ijds
+of the fluxs cf oolai xray lusts
+urzaeva l
+institute of cosmophysical kesearch and aeronom
+lenin ave yakutsk ussr
+abstract the possioility to detect the comospheric flares
+basedon the natural vlf emission intensity data on he arths
+surface is considered diagnostics of the change of solar aray
+burst flux at and its estimation are discussed as pos
+sible
+the effect of solar flare shortwave emission on the arths
+ionosphere was considered oy aiitra where the determina
+tion of solar xray fluxes by indirect mehods is described in
+lowfrequency range for this aim are used the signals of transmit
+ters operating at tenshundreds kilohertz xrequencies the records
+of tne natural emlssion latmospherics are considered to be suit
+able for the oetection of fares but to be hardly used for the in
+vestigation of ionosphere physics as the detected noise represents
+the integral effect of many sources and the sources are of a ran
+dom character
+here the possibility is studied of the deection of solar chro
+mospheric flares and he estimation of aray flux acconanied by
+powerful bursts in the range o i based on the change of
+the regular noise background intensity of the natural lowfrequen
+cy emission detected on the earth
+for mn years in yakutsk n he naturl
+lfvlf emission at i z is being detected coninlously one
+of he types of continious lowfrequency emission is a regular
+noise background ib determined as a separate class vrshinin
+ponomrev db is is available constantly on the records
+and is characterized by a smooth temporal rounding a spectral dis
+tribution of idb intensity is two emission bands in elfvlf ranges
+divided by a deep minimum at khz liurzaeva 
+ror the analysis were used the records of elfvlf emissions ob
+tained in yakutsk in by channel registrator druzhin
+at al and from to now by lchannel registraor in
+iz range esides sellitc oata of solar xray iluxes
+ere used sgd 
+a comparison of pb rcords ith solar xray fluxes howed that
+the chsnge of zlfvlf emission intensity and its value depend on
+a value of xray burst flux almost simultsneously with solar xray
+burst bhe rnb intensity increases at idlz and decreases at
+khz the enhancement maximum is at iz the hih
+est weakening at dz urzaeva the increase of
+xray flux by an order of causes both weening and an enhance
+mcnt of elfvlf emission ib intensiy from to db
+a change of inb intensity spectral distribution uring solar
+lares was considered y iurzaeva fligel 
+in fig is shown db intensity averaged on flares in 
+and in versus a frequancy on yaxis is put a ratio of
+ib itnsity measured at a flare maximum ib to a oreflare iib
+level io calculated as lg ibl o kurzaeva j 
+jdalityznfig is presented an example of ilibintensity change during
+a flare at various concrete irequencies of the range unger investi
+gation and solar xray ilux record obtained by the satellite sgd
+a dynamics of vi emission intensity at khz and of xray
+ilux repeat each other in counterphase however lf emission in
+tensit increase during a flare is not always observed and a fre
+quency at which occurs a transfer from rnbintensity increase to
+its decrease is rather variable besides flf emission intensity
+enhancementcaused by the influence of enhanced solar xray flux
+on the ionosphere is hardly different from elf emission flare caused
+by other types of ionospheric and magnetospheric disturbances at
+the sametime a sharp veakeningof b intensity at vlf frequencies
+observed during chromospheric flares is opposite to lf emission
+bursts and is of a characteristic for chromospheric flares form
+therefore to study the variabions of solar xray fluxes were used
+the experimental data at khz which besides appears to be at
+frequency range here liib intensity weakening is maximumduring a
+flare andpdb record level is high enoughas comparedwith the ins
+trumen noise
+ometimes during several hours one can observe a number of fla
+re for instance on july the variations of idb level
+caused by them are superposed on its regular daily changes never
+theless see lig in the behaviour of pdbcurve is reflected
+the dynamics of flare xray zlux a picture is being clarified if
+to subtrack the daily variations of rnbintensity from the total
+cuv e course
+e carried out a statistical treatment of the experimental data
+on a number of chromospheric flares and estimated solar xray flux
+during flares in the case when xray fluxes f increase during
+a flare by an order of or more they are as cffj 
+here c and are determined based on the experimental data
+the estimated xra flux in the first approximation is shown in
+ig a comparison wibh the satellite data sgd evidences
+ibs agreement
+hue using ata of continious groundbased registration of the
+natural vlf emission one can
+on characteristic for he period of chromospheric flares form
+of idb intensity oecrease of vlf emission to detect solar flares
+ccoipanied y powerful solar xrays bursts
+on bhe change of vlf emission inb intensity to carry out a
+continious oiagnostics of changes of solar aray burst zlux and
+to estimate its value
+iitra a ionospheric effects of solar flares lilir 
+urzaeva nn eegulyarny shumovoi fon onuh izlucheniya v kn
+izkochsstotnye volny i signaly vo vneshnei ionosfere apaity
+izdvo lolsogo filiala an sss 
+urzaeva ieulyarny shumovoi fon nch izlucheniya vo vre
+ma solnechnykh vspshek v kn svyaz ich izluchenii verahnei
+atmosfery s drugimi geofizicheskimi yavleniyami yakutsk izdvo
+yag so a sssr s
+lurzaeva nl fligel ds vliyaii solnechykh vspyshek na
+spetralnye kharakteristiki nepreryvnogo nizkochastotnogo izluche
+niya v kn issledovaniye struktunry i volnovykh svoistv okolozem
+noi plazmy iiziran s
+ogip page is
+of poor qualityurzaeva o vozmozhnosti rgistratsii khzomosfernykh vspf
+sbk po izmeneniu intensivnosti rgulyarnogo shumovogo fona ch
+olich izlucheniya lulnti problem kosmofiziki i aeronomii
+ialuto yaf s an sssr iyul s
+urzaeva in fligel ds izmeneniye spektrov regulyarnogo
+humovogo fona vo vrema solnechykh vspyshek v kn agnitorfer
+jc ijsledovaniya no s
+solar geophysical data comprehensive eport no part 
+ar geopbtsical data comprehensive heport 
+ikov op druzhin gi sbvetsov vd nikitin up pet
+ov g apparatura dlya registratsii onch izlucheniya v kn
+iiiziochastotnye signaly vo vnesbnei ionosfere yakutsk izdvo
+a ai sssr s
+rshinin ef ponomarev ea klassifikatsii nepreryvnogo
+uluranizkochastotnogo izlucheniya verkhnei atmosfery v kn
+moi magnetizm polyarnye siyaniya i ultranizkochastotnoye iz
+lucbcniye vpi irkutsk sibizii ai sssr q s dsq
+crgnl page is
+of poor qualityd
+e s
+t e 
+o 
+a
+o
+e w tat
+m kmz 
+xtlz
+i r
+nz
+fo
+ig a change of ieqb intensity
+averaged on flares in xhz
+in 
+t
+fig a change of rnb in
+tensit auring the ay 
+j
+flare at various lre
+wrl
+quencies and solar xray
+flux on satellite data
+for
+sgd 
+fof
+fo e
+ig iherecord of inb intensity
+of the natural vlf emission and so
+lar aray flux satellite data 
+sgd during a number of fla
+res on xray flux
+obtained on lf emission data

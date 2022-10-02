@@ -1,0 +1,138 @@
+the probability of swf occurrence in
+relation to solar activity
+lpnorozova
+institute or applied geophysics
+goscomhdromet ussr
+solar terrestrial researches hove revealed substantial
+meaning of nonsteod events on the sun moinl solar flares for
+the processes taking place in ionosphere solar flares result in
+the numerous consequences account and prediction of which become
+necessor in our dogs it is well known that ionospheric
+disturbances following solar flares cause strong disturbances in
+the ionosphere which severel violate radiosstems
+communication navigation etc in the given paper we consider
+possibilities of sudden short wave todeouts swf prediction
+it was long ago when solar phgsicists came to the conclusion
+that solar flares are not the exclusive events of solar activity
+but represent a natural phenomenon in the active regions
+development rust 
+thus sid effects evoked b the sudden increase of
+xradiation in the range of a during the flares mo not be
+considered as the single phenomena but as o flow of casual
+events so the longterm prediction of swf effects occurrence
+probobilit me be based on the probabilit characteristics
+anolgsis of their occurrence on different phases of solar
+activit for a particular time interval at the same time it is
+assumed that a slow changing of statistic model parameters in the
+solar activit ccle takes place
+for solving the problem there were obtained and anolgzed
+hgstogroms of swf occurrence frequenc distribution for one
+particular do using data on their registration within the world
+network of sid monitoring stations for the period of 
+published in solar geophysical data 
+observation data were processed seporotel for various
+phases of solar activity thus the results of and
+characterized solar octivit minimum results of and
+growth phase results of e solar activit
+maximum results of and characterized falloff
+phase of solar octivitg
+figure gives an example of the experimental data in the
+form of hgstograms of n events probabilit distribution n
+varies from e to le on a da for solar octivit maximum or
+for solar activit minimum hstograms for all solar cgcle phases
+are similar the hove maximum at ne with a different maximum
+value for various ccle phases of solar activitg the greatest
+number of dags without swf effects iee is tpical for solar
+activit minimum for this period p for the period of
+solar octivit maximum this value is the least p
+average value of swf occurrence frequent on o de of solaroctivit minimum is ne but at solar activit moximum n
+occurrence of swf effects ma be considered as a rare casual
+event so it was quite natural to use poisson distribution for
+theoretical description of occurrence frequency after comparison
+a great difference between theoretical and experimental
+distributions was revealed we ma assume than swf effects are
+rare casual events but separate effects are not independent
+flare activit on the sun leading to swf occurrence in
+ionosphere is a complex multiparametric process depending upon
+spatial distribution of active regions on the solar disk upon
+magnetic fields of these regions and upon man other parameters
+thus it is evident that a model of independent occurrence
+polsson model is not adequate to real conditions of swf
+occurrence
+experimental hgstograms analgsis allows to suggest that
+exponential distribution ma be chosen as most suitable
+simplified distribution for their description satisfactory
+approximation with empiric distributions has been obtained with
+the help of superposition of two exponents
+approximation expression was obtained for ever phase of
+solar cycle and besides coefficients were chosen empiricall
+basing on the experimental hystograms
+solar activit minimum
+pn eexpn eexpen 
+solar actlvit maximum
+pn eexpen eexpen 
+increase phase of solar activity
+pn eexpn eexpen 
+falloff phase of solar activitg
+pn eexpn e zexpen 
+thus approximate analytical expression for swf occurrence
+frequent distribution ma be presented in general as follows
+pn alepln aexpn 
+where coefficients a a and vary with a change of
+solar activitg on this base we assume that there ma be link
+between parameters of approximate expression and solar
+activity index for example relative sunspot number r z or
+socalled wolf number
+fig shows variation of parameters values a a i 
+and r z during st cgcle of solar activity it should be
+mentioned that approximate expression parameters are changing in
+the cgcle with periodicity tgpical for rz variationsso it is possible to express the coefficients of onolgticol
+expression
+as a function of sunspot number
+a aio zi alt
+a a at 
+where
+rz rz minr z max r z min 
+it should be mentioned that in formulae the values of aio
+and ai i for fixed phase of solar activit
+cncle remain constant being obtained on the bose o ossemblw
+average for everw period
+link of opproximote expression porameters with wolf numbers
+is determined bw expressions and it is known that nowodoys
+sunspots are the most precisel predictable values
+characterizing solar activity vitinskiy 
+using the prediction of rz values solar geophgsical data
+of expressions we obtain parameters of approximate
+analytical expression that allow further to calculate n swf
+effects occurrence probability on da for o given period
+beforehand that is to realize longterm prediction it is
+possible as well to give forecasting of expectable overage number
+of swf effects in the period of interest
+results of control predictions hove shown that statistical
+model is satisfactory describing empirical distribution of swf
+effects occurrence for various phases of solar activitg or gives
+the assessment of average number of effects for a particular
+period for example a year in advance the results of longterm
+prediction b average values are sttisticall onl slightlw
+different from monitoring results
+thus our work has shown that the possibilit of longterm
+prediction of swf effects occurrence frequency is conditioned b
+slow temporal variations of statistic model parameters and by
+link of these parameters with sunspot number as well
+references
+i rust d an active role for magnetic fields in solar
+flares solar phgs no p
+solar geophysical data prompt report 
+vitinski yul solar octivit predictions n as ussr
+pfig i distribution hystograms of swf effects
+occurrence probability in one day a solar activity
+maximum b solar activity minimum
+at
+i
+too i 
+j 
+t
+i i i i i i i i i i i
+lg tg 
+figvariation of statistical model coefficients
+and sunspot number far the period of

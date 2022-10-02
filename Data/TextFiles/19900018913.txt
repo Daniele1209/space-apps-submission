@@ -1,0 +1,217 @@
+n
+intercomparisons of goesderived cloud parameters
+and surface observations over san nicolas isiand
+p minnis
+atmospheric sciences division nasa langley research center
+hampton virginia 
+c w fairall
+department of meteorology pennsylvania state university
+university park pennsylvania 
+d f young
+aerospace technologies division planning research corporation
+hampton virginia 
+i introduction
+the spatial sampling limitations of surface measurement systems
+necessitate the use of satellite data for the investigation of largescale
+cloud processes understanding the information contained in the satellite
+observed radiances however requires a connection between the remotely
+sensed cloud properties and those more directly observed within the
+troposphere surface measurements taken during the first isccp regional
+experiment fire marine stratocumulus intensive field observations ifo
+are compared here to cloud properties determined from geostationary
+operational environmental satellite goes data in order to determine how
+well the island measurements represent larger areas and to verify some of
+the satellitemeasured parameters
+data
+total cloud amounts and visible m topoftheatmosphere cloud
+albedos were derived with the hybrid bispectral threshold method hbtm
+minnis et al from hourly goeswest data young et al over
+two regions between iiw and w and n and n for july 
+cloud albedos cloud fractions and integrated cloud liquid water
+contents were determined from measurements taken nearly continuously over
+san nicolas island fairall et al with a variety of instrumentation
+during this same time period san nicolas island sni is located near the
+center of the eastwest boundary of two satellite regions results from
+both the microwave and solar radiometer cloud liquid water content lwc
+measurements are compared to the satellite albedos these preliminary
+comparisons match relatively large areal averages to essentially linear
+averages of the cloud fields advecting over a fixed point
+results and discussion
+mean hourly cloud fractions are shown in fig i for the sni and hbtm
+results the sni cloud amounts on average are greater than
+the hbtm total cloud amounts the diurnal variations are similar with early
+morning maxima and late afternoon or evening minima the hbtm diurnal
+range however is compared to for the sni data peak cloud cover
+occurs i hour earlier for the hbtm results the differences in the
+cloud amounts may arise for several reasons cloud cover over the island
+may not be representative of the larger area since the clouds generally
+f not filmedpass over the island there may be some surface heating during the day which
+affects the cloud deck during the night the local heating ceases
+radiative cooling of the island is limited by the largescale cloud field so
+that there should be little island effect at night sampling differences
+may also affect the comparison a visual examination of the data using the
+video imagery developed by d wylie and p grimm university of wisconsin
+unpublished revealed that of the days the cloud cover over the
+island and surrounding regions appeared to vary the same during only days
+during of the days a vshaped clearing formed around and downwind of the
+island during the afternoon during another days the regions surrounding
+the island showed considerable clearing while a strip centered on the island
+remained overcast the clouds cleared around the island and over the island
+itself during the remaining days however the clouds cleared over the
+island last in nearly all cases in the imagery the cloud cover over the
+island and surrounding regions was very similar at the beginning of each day
+during the ifo these visual findings are consistent with the means shown
+in fig i and with sni time series of cloud amount the hbtm and sni
+results show good agreement after midnight until sunrise faster and more
+extensive clearing occurs around the island than over the island itself
+this apparent island effect may also be responsible for the differences in
+satellite and island cloudtop heights observed during the day minnis et
+al 
+a comparison of the satellite visible and sni broadband shortwave cloud
+albedos is shown in fig the narrowband albedo is considerably lower
+than the islandderived albedo values spectral differences sampling and
+the atmospheric effects included in the satellite results are primarily
+responsible for the differences to minimize the spectral differences the
+visible albedos were converted to broadband shortwave albedos using an
+empirical solarzenith angle dependent ratio the resulting albedos were
+then corrected for atmospheric effects using the simple model of chen and
+ohring since the clouds are so low it was assumed that they could
+be treated like the surface the resulting cloud albedos derived from those
+in fig are shown in fig cloud albedos were averaged without any
+weighting by cloud amount for all cases with cloud amounts greater than i
+the dashed line represents a mirror image of the morning satellite results
+it is shown to demonstrate the sizable decrease in cloud albedo during the
+afternoon despite the broadband and atmospheric corrections the sni cloud
+albedos are still higher by on average if it is assumed that the sni
+clouds are more like those over the surrounding regions when there is more
+cloudiness then mean satellite cloud albedos derived by weighting the
+albedo by the cloud fraction should be more similar to the sni results than
+those derived using a simple averaging technique this approach was
+implemented with the results shown in fig in this instance the mean
+cloud albedo differences are only with greater errors near the
+terminator as expected chen and ohring the remaining discrepancies
+may be due to sampling and technique differences bidirectional reflectance
+model biases and island effects though visual examination of albedo is
+unreliable the clouds were distinctly brighter over the island than over
+the adjacent areas during at least days july and an island effect
+which results in more cloud cover may also alter the cloud composition
+relative to the large scalethe lwc values derived from the sni microwave and solar measurements are
+correlated with the satellite visible albedos in figs and 
+respectively two curves are shown in each figure the lower curve which
+levels at an albedo of is based on the results of coakley and snider
+their regression is
+ip lwc i
+where p is the visible reflectance is the cosine of the solar zenith
+angle and lwc is given in gm the second curve shown in these figures
+is a regression fit to the observed data using the relationship
+inl a blwc 
+the cloud albedo is p x where x is an anisotropic reflectance
+correction factor the coefficients a and b are and 
+respectively for the microwave data the coefficients for the solar data
+are a and b the curve for is tangential to the
+knee of the curve for i the latter seems to fit the data well for lwc 
+i gm but does not provide for any albedos greater than thus
+the curve is unrealistic for higher values of albedo equation 
+however shows no skill for matching the lower albedos but it allows for
+additional increases in cloud albedos beyond it is concluded
+therefore that a combination of these two functions would provide a more
+complete representation of the relationship between albedo and lwc this
+combination is accomplished by matching the curves at 
+concluding remarks
+it appears that the snlobserved clouds may be affected by the island
+additional support for this thesis will require analysis of satellite data
+over a small region centered on the instrument site accounting for these
+potential effects the satellitederived cloud amounts and albedos are very
+similar to those observed over sni the diurnal variations in cloud amount
+and cloud albedo are also comparable to those seen over other areas eg
+minnis and harrison these preliminary results have also provided a
+relationship which may be utilized during the day to determine cloud lwc
+over other parts of the ifo area
+references
+chen t s and g ohring on the relationship between planetary and
+surface albedos j atmos sci 
+coakley j a jr and j b snider observed reflectivities and
+liquid water content for marine stratocumulus proc ams symp role of
+clouds in atmospheric chemistry and global climate anaheim ca jan 
+feb 
+fairall c w j e heve and j b snider an month climatology
+of marine stratocumulus cloud fraction albedo and integrated liquid
+water presented at fire annual meetingastex workshop monterey ca
+julyminnis p and e f harrison diurnal variability of regional cloud
+and clearsky radiative parameters derived from goes data part iii
+november radiation parameters j clim appl meteor 
+minnls p e f harrison and g g gibson cloud cover over the
+eastern equatorial pacific derived from july isccp data using a
+hybrid bispectral threshold method j ceophys res 
+minnis p d f young r davies m blaskovic and b a albrecht 
+stratocumulus cloud height variations determined from surface and
+satellite measurements presented at fire annual meetingastex workshop
+monterey ca july 
+young d f p minnis and e f harrison satellitederived cloud
+and radiative parameters over the marine stratocumulus ifo presented at
+fire annual meetingastex workshop monterey ca july 
+l i i i
+ee sni data
+la bd goes data
+c
+h 
+lid i
+a
+oo
+m m
+k
+i
+oo g b 
+local solar time
+i i
+fig mean fo cloud amounts derived from goes over a x o region
+centered on san nicolas island and from island observations
+i i i
+ooooo sni data
+goes data
+w o
+gj
+c
+d
+j
+u 
+local solar time
+fig same as fig except for goes visible cloud albedos at the top of
+the atmosphere and island broadband shortwave cloud albedosogo i i l i i
+sni data
+beo goes data
+wjo
+m
+j
+c
+z
+o
+i i
+o 
+local solar time
+fig same as fig except for broadband atmospherecorrected goes
+cloud albedos
+ogo i i i i
+oeoeo sni data
+obo chj goes daia
+lc
+d
+j
+c 
+o
+l 
+o 
+local solar lime
+fig same as fig except for cloudamount weighted averaging of goes
+cloud albedos
+i i
+r oo o
+j
+o
+i i i i i i i i i
+io io 
+lwccossza gm lwccosszagm 
+fig correlation of goes visible cloud fig correlation of goes visible cloud
+albedos and lwc derived from albedos and lwc derived from
+island microwave measurements see island solar radiation data see
+text for discussion of curves text for discussion of curves

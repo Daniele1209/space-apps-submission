@@ -16,7 +16,7 @@ def normalize(text):
     # remove empty lines
     text = "".join([s for s in text.strip().splitlines(True) if s.strip("\r\n").strip()])
     # remove leading whitespaces
-    text = re.sub(r"^ +", "", text)
+    text = re.sub(r'\n[ ]+', '\n', text)
     return text
 
 

@@ -1,0 +1,163 @@
+n
+ionospheric effects of the extreme solar activity of february
+j boka d pancheva 
+geophysical institute czechosl acadsci bonl ii 
+prague czechoslovakia
+geophysical institute bulgacadsci acad g bonchev 
+sofia ii bulgaria
+during february near the minimum of the ifyear solar
+sunspot cycle after a long period of totally quiet solar activity
+r z on most days in january a period of a suddenly enhanced
+solar activity occurred in the minimum between solar cycles and
+two proton flares were observed during this period a few
+other flares various phenomena accompanying proton flares an
+extremely severe geomagnetic storm and strong disturbances in the
+earths ionosphere were observed in this period of enhanced solar
+activity
+two active regions appeared on the solar disc region noaa
+occurred on the disc between january ii february 
+several large flares appeared in this active region the most
+important flares two proton flares were observed in this region
+february ut imp b and february ut
+imp b another large flare occurred in this region on february
+ut imp b the second active region noaa 
+occurred on the solar disc between february its most
+important flare was observed on february ut
+the flares in both active regions were associated with
+enhancement of solar high energy proton flux which started on 
+february of ut the enhancement of the solar proton flux on
+february with maximum on february ut and the end
+on february is depicted in fig i
+associated with the flares the magnetic storm with sudden
+commencement had its onset on february ut and attained its
+maximum on february kp its development in kp is also
+shown in fig i
+the sudden enhancement in solar activity in february was
+accompanied by strong disturbances in the earths ionosphere sids
+and ionospheric storm the highest sid event importance was
+observed on february ut two proton flares 
+february were folowed by pca events in the lower ionosphere
+the strong geomagnetic storm culminating on february caused
+a strong ionospheric storm the effects of this storm as observed
+by the ionosonde at pruhonice observatory n e are
+plotted in fig variations of the critical frequency of the f
+layer of the ionosphere from to february are shown in fig 
+the positive part of the storm effect began on february forenoon
+and at about ut was followed by a sudden decrease of the
+critical frequency of the f layer from mhz to mhz while
+the virtual heights increased the negative part of the storm
+characterized by spread echoes and low critical frequency lasted
+until february on february from quite unusual effects
+were observed unusually e layer h km foe mhz
+higher virtual height and higher frequency than the normal e
+layer which may be interpreted as a particle e layer which
+appeared on the ionogram at ut fig this effect was
+followed by the appearance of a quite extraordinary layer inut with virtual height of about km fig this layer
+existed l hour and then droped down and became an es layer type of
+a auroral which existed until ut
+these effects and type es are quite unusual in our middle
+latitudes and were probably connected with strongly increased
+auroral activity
+the effect of the geomagnetic storm on the lower ionosphere
+consisted of two different types the first type observed at high
+latitudes consisted in a large increase of electron density
+coincident with the geomagnetic storm at midlatitudes we observed
+the poststorm effect pse which consisted of the first phase
+pse i coincident with the geomagnetic storm and the second
+phase observed after the geomagnetic storm pse if for the
+detection of poststorm effects caused by the geomagnetic storm
+on february we used a absorption measurement given in table
+i
+table i
+frequency observ geomagn fat of reflpoint
+khz kuhlungsborn 
+khz panska ves 
+ib khz sofia 
+khz sofia 
+khz sofia 
+the first phase pse i of the post storm effect started on 
+february the maximum of the geomagnetic storm was on february
+ap kp and the end of the first phase had pse on 
+february pse ii started on february the results for night
+time absortpion data in given measuring paths fig indicated
+that the first phase of the pse was well developed only for the
+northern most measuring path p khz the second
+phase of pse ii absorption enhancement on that path decreased very
+quickly up to day after pse i end this result indicates a
+direct effect in high latitudes rather than midlatitudes on the
+other band the results for khz and khz represent a
+typical midlatitude case with missing phase i and very well
+developed phase if the case of khz is very like the
+behaviour of the transitional type normally observed in the
+subauroral zone with the transition of the time of the
+commencement of the first phase with latitude the effect on 
+khz is developed very weakly the existence of the third phase pse
+ill after february is not quite clear either this latitude
+boundary is in accord with the hypothesis on equatorward expansion
+of the auroral zone during geomagnetic storm in early february
+references
+solar geophysical data no no no part i 
+no part ii boulder
+ea lauter et al hhistpreport no berlinell kill iirimis
+i 
+iillll ilrlni itull ii i
+ilipliir llmllil iaiiiiii rll
+vs wso loratov rnrrrml
+i i i i i j i l i i g i i i i i illl i ji i i ill m i i i i m i i i j t i i i
+i i i ii i i i i i i i
+t 
+j s o io ji 
+planetary magnetic
+t t tllltillt
+threehourrange indices
+titl gp after barpeis
+kt marclt 
+fig i the enhancement of the high energy proton flux as observed
+on february below planetary magnetic threehour range
+indices kp
+ii i 
+feorion
+fig critical frequencies of f layer pruhonice full line
+median o fof in february v fof less than given value a
+blanketing es layer s interference
+page is
+j 
+of poor qualitypsa year day time
+t y 
+r mlrl iim i mlu j 
+t vt vt t
+ui t i l z i i 
+t 
+o t j 
+jvrilri ia 
+q yi i
+l i i q 
+v d 
+f a i 
+iim 
+i a 
+j iri 
+wfrt
+ij t 
+i 
+i 
+r r t i 
+i 
+vv
+o si
+jjtvli it 
+l 
+freoucy swp frop i to mhz
+fig ionogram with particle e layerl pruhonice
+i ut
+ipsa year ay tlqe
+original page is
+of poor quality
+j 
+feojencyswee fropi to amh
+fig ionogram with extraordinary layer puhonice 
+uto
+fedruiy
+fig the effect of the geomagnetic storm of february b in
+the lower ionosphere l changes in ionospheric a absorption
+on several measuring paths

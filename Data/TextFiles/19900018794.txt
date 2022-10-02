@@ -45,10 +45,10 @@ factor structural lifetime is often limited by creep rupture
 in design practice estimates of creep deformation are often based on
 generalizations of the classical norton creep law predictions of creep failure resulting
 from material deterioration are frequently based on generalizations of the kachanov
- rabotnov damage law
- prof univ of akron akron oh 
- asstprof univ of akron akron oh 
- grad student univ of akron akron ohgeneralizations of these laws eg leckie and hayhurst lemaitre and
+rabotnov damage law
+prof univ of akron akron oh 
+asstprof univ of akron akron oh 
+grad student univ of akron akron ohgeneralizations of these laws eg leckie and hayhurst lemaitre and
 chaboche leckie have been proposed that account for multiaxial stress
 and that employ damage evolutionary laws reflecting various micromechanisms ashby
 and dyson these generalizations commonly employ concepts such as an
@@ -65,7 +65,7 @@ isotropy the strong fibers are assumed to suppress creep along their direction b
 in the presence of general states of stress both creep and creep damage occurs
 the representation of creep deformation follows earlier work concerning strongly
 fiber reinforced metals robinson and duffy and binienda and robinson
- tensorial invariants identified in these works reflecting deviatoric stress
+tensorial invariants identified in these works reflecting deviatoric stress
 dependence and the appropriate material symmetry are adopted in the present flow
 law as the emphasis here is on the interaction of creep and damage tertiary creep
 the relatively small contribution of primary creep cfpetrasek and titran
@@ -119,7 +119,7 @@ generalization to nonisothermal conditions follows as in cocks and ponter
 extension to other fiber densities is possible by considering key material parameters
 as functions of fiber volume percentage
 invariants identified in robinson and duffy and binienda and robinson
- are adopted to account for material directionality local transverse isotropy
+are adopted to account for material directionality local transverse isotropy
 as earlier an orientation tensor
 dij didj 
 is introduced where di are the components of a unit vector denoting the
@@ -132,21 +132,21 @@ i
 j t sijsji dijsji dijsjkski 
 and sii the components of the deviatoric stressthe physical meanings of i
 and are
- s the maximum transverse shear stress
+s the maximum transverse shear stress
 s
- the maximum longitudinal shear stress
+the maximum longitudinal shear stress
 we define an additional invariant as
- a a s 
+a a s 
 where
- oii dijtzji
+oii dijtzji
 and
 x xo
- xphysically
- the maximum transverse tensile stress 
+xphysically
+the maximum transverse tensile stress 
 these invariants enter the model through two functions qbaiidij the flow
 potential function and aaijdij the isochronous failure function guided by
 binienda and robinson we take qb as
- o jj i 
+o jj i 
 where ao is a reference stress to be defined subsequently consistent with the
 discussion in the previous section the function a is taken to depend on the
 invariants jr and the surface a in the space will be
@@ -169,7 +169,7 @@ where
 l
 lij sii dii ij
 the evolutionary law is taken as cf leckie 
- ai au i 
+ai au i 
 in whichna
 m 
 the scalar i is the material continuity kachanov it equals unity for a
@@ -182,7 +182,7 @@ subjects of the following section
 an alternative and useful form of the flow law eq can be stated by
 defining an effective stress
 and an effective inelastic strain
- j 
+j 
 ij ej i
 using eq the flow law can then be written
 i n n 
@@ -190,16 +190,16 @@ o
 relating the effective stress and effective inelastic strain rate
 for the limiting case of isotropy the creep creep rupture model expressed in
 eqs reduces to that proposed by leckie and hayhurst and leckie
- for isotropic alloys this reduction is discussed in the appendix
+for isotropic alloys this reduction is discussed in the appendix
 determination of the material constants
 the model expressed in eqs predicts no creep and no damage under a
 constant longitudinal tension fig a under a transverse tensile stress a a
 fig b the model reduces to
- n 
+n 
 n
- aijoaovj mwhere e e the transverse creep rate fig b with a ao ie at the
+aijoaovj mwhere e e the transverse creep rate fig b with a ao ie at the
 reference transverse stress and with g ie for an undamaged material eq
- gives e co thus the constant eo represents the early creep rate under
+gives e co thus the constant eo represents the early creep rate under
 the transverse reference stress ao fig 
 again with a ao eq can be integrated from to giving
 t a
@@ -212,7 +212,7 @@ i ox
 integrating eq over t to and e ef we get for the transverse
 failure strain ef
 ef
- to 
+to 
 ef
 or a 
 eoto
@@ -234,7 +234,7 @@ point the only remaining constant to be specified is a in eq
 under a constant longitudinal shear stress x r fig c eq reduces
 to
 a lv ar v an 
- nn j yuj i m 
+nn j yuj i m 
 integrating eq over and t tf there results
 tf 
 to araov
@@ -266,14 +266,14 @@ to av
 we recall that for a viz a stress state on the isochronous failure surface tf
 t o
 now consider the alternative form of the flow law expressed in eq with
- constant and making use of eq eq can be integrated over t tf
+constant and making use of eq eq can be integrated over t tf
 and e ef as follows
 ef tf a
 f d n f adt
- o 
+o 
 using eq in eq results in
 f
- natf 
+natf 
 o
 then using eq we have
 el n 
@@ -303,20 +303,20 @@ ds dl d
 the relevant invariants can then be calculated
 is s 
 giving from eq 
- a jios 
+a jios 
 uo
 additional invariants are
 s cos o
- a cos in 
+a cos in 
 aa
 leading to
- a sofinally
+a sofinally
 ey sin 
 and from eq 
 a ka os sin 
 oo
 using eqs and we write the dimensionless rupture time vs fiber angle
- as
+as
 tf v pr 
 j oh 
 s in
@@ -328,7 +328,7 @@ t
 thus the failure time for circumferential fiber strengthening may exceed substantially
 that for longitudinal strengthening typically v so that v 
 a graph of eq is shown in fig the three curves shown are for a 
- and the first a implies that no damage results from the maximum
+and the first a implies that no damage results from the maximum
 longitudinal shear the last condition a implies that and the
 maximum transverse tension dr are equally damaging
 fig shows that for a the rupture time decreases monotonically with
@@ -338,18 +338,18 @@ monotonically with but exhibits a minimum value at an intermediate fiber angle
 combining eqs and we obtain the dimensionless effective failure
 strain vs viz
 clefaor vn cos n 
- cos sin vsimilarly evaluating eq for and and taking the ratio of these
+cos sin vsimilarly evaluating eq for and and taking the ratio of these
 results we have for any pressure p
- vn 
+vn 
 f 
 now for definiteness we consider specific values of the exponents n and v 
- and take the pressure as praoh the result is plotted in fig as earlier
+and take the pressure as praoh the result is plotted in fig as earlier
 three curves are shown corresponding to a and with the given values
 of pn and v each curve shows ef ef at ie the effective failure
 strain is equal to that corresponding to transverse tension at the reference stress ro
 at each curve shows ef ef el consistent with eq 
 for the curve a in fig f reaches a maximum of ef at
- conversely the curves a and each exhibit a minimum at an
+conversely the curves a and each exhibit a minimum at an
 intermediate fiber angle
 the simple structure considered in this section is not of essential practical
 importance but serves as an illustrative example of the dependence of tf and f
@@ -455,7 +455,7 @@ robinsondn and duffysf continuum deformation theory for high
 temperature metallic composites jengrmechasceappendix b isotkopic limit
 the isotropic limit of the model expressed in eqs is found by taking
 dij to be an isotropic tensor with dii ie dij ij under this limit
- in eq becomes
+in eq becomes
 ib
 and fij in eq is
 fij sij b
@@ -475,15 +475,15 @@ a d or a b
 where amax the maximum tensile principal stress
 we note from eq b that the ratio of the reference stress ao of the
 isotropic limit to the transverse reference stress ao of the anisotropic composite is
- this result is expected in that the material deforms as a j yon mises
+this result is expected in that the material deforms as a j yon mises
 material in the isotropic limit cfeq b whereas under the constraint of thestrong fibers it is forced to deform in transverse tension as a maximum shear stress
 trca material the creep or yield strengths of these material idealizations are in
 the same ratio fgj
- ai
- o
+ai
+o
 g
 figure piecewise linear isoconous failure surface
- o
+o
 o t
 a
 b
@@ -502,36 +502,36 @@ figure helically reinforced thinwalled tube under interior pressure p d denotes
 local fiber directiono degrees
 figure dimensionless rupture time vs fiber anglee
 f
- i 
- o 
- degrees
+i 
+o 
+degrees
 figure dimensionless effective failure strain vs for proh n and
 vreport documentation page
 nationalaeronauticsand
 spaceadministration
- report no government accession no recipients catalog no
+report no government accession no recipients catalog no
 nasa cr
- title and subtitle report date
+title and subtitle report date
 creep and creep rupture of strongly reinforced metallic composites august 
- performing organization code
- authors performing organization report no
+performing organization code
+authors performing organization report no
 dn robinson wk binienda and m mitikavuma none
- work unit no
- performing organization name and address
- contract or grant no
+work unit no
+performing organization name and address
+contract or grant no
 university of akron
 nag
 akron ohio 
- type of report and period covered
+type of report and period covered
 contractor report
- sponsoring agency name and address final
+sponsoring agency name and address final
 national aeronautics and space administration
- sponsoring agency code
+sponsoring agency code
 lewis research center
 cleveland ohio 
- supplementary notes
+supplementary notes
 project manager steven m arnold structures division nasa lewis research center
- abstract
+abstract
 a creep and creep damage theory is presented for metallic composites with strong fibers application is to
 reinforced structures in which the fiber orientation may vary throughout but a distinct fiber direction can be
 identified locally local transverse isotropy the creep deformation model follows earlier work and is based on a
@@ -545,9 +545,9 @@ characterizing a composite through creep rupture tests under transverse tension 
 applications is made to a thinwalled pressure vessel with reinforcing fibers at an arbitrary helical angle the
 results illustrate the usefulness of the model as a means of achieving optimal designs of composite structures
 where creep and creep rupture are life limiting
- key words suggested by authors distribution statement
+key words suggested by authors distribution statement
 creep creep rupture composites metallic unclassified unlimited
 viscoplasticity subject category 
- security classif of this report security classif of this page no of pages price
+security classif of this report security classif of this page no of pages price
 unclassified unclassified a
 nasaformoct forsale by the national technical information service springfield virginia

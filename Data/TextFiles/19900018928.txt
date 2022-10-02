@@ -1,0 +1,195 @@
+n
+on the dynamic and thermodynamic structures of marine stratocumulus
+mark j lauferswcfler and hampton n shirer
+department of meteorology
+the pennsylvania state university
+university parkpa 
+latent heating effects on stratocumulus circulations have been studied successfully with a
+ninecxefficient spectral model of twodimensional shallow boussinesq convection
+laufersweiler and shirer jas further more realistic investigations are
+being performed currently with a larger coefficient spectral model in which the effects of
+cloud top radiational cooling and incloud radiational heating are also being represented
+because assuming a rigid lid at the inversion base may have affected previous results
+significantly we have raised the domain top to include the lower portion of the capping
+inversion as in the previous model a uniform cloud base is assumed and latent heating effects
+are included implicitly such that the motions in the sub and abovecloud regions are dry
+adiabatic and the motions in the cloud region are moist adiabatic the effects of forcing by
+radiational heating profiles that are tied to the cloud layer such as the one used by nicholls
+ojrms will be investigated as will profiles measured during the fire
+experiment
+one concern of using truncated spectral models is that the phenomena are so poorly
+represented that they can change dramatically as the number of spectral coefficients is increased
+the efficacy of the ninecoefficient model results is checked by examining the steady state
+solutions of the coefficient model for parameter values used by laufersweiler and shirer
+which corresponds to the case of a moderately deep cloud and no capping inversion fig
+here the horizontally asymmetric circulation patterns that have narrow downdraft areas and
+broad updraft areas are virtually the same as those found in the smaller spectral model fig lb
+also captured in the case of weaker heating is an elevated circulation centered at cloud base
+fig la thus the results of the smaller model are substantiated
+since one of the goals of studying the new model is to represent a more realistic domain
+the second test of the model is to investigate whether the steady solutions are suppressed in the
+case of an inversion with no cloud the capping inversion should limit the convective
+circulations but we do not force this to happen with the imposition of a rigid lid at the inversion
+base figure shows the steady solutions for the case of a relatively strong inversion of 
+ckin that begins at a height of z t as indicated by the tic for the case when the value of the
+rayleigh number is near its critical value fig a the circulations are weak and located in the
+subinversion region of the domain for a higher value of the rayleigh number fig b the
+circulation has intensified but is still restricted to the subinversion region importantly the
+updrafts only penetrate into the inversion by a small amount thus the model is correctly
+representing the effects of an inversion by properly suppressing the convection
+figures and are the first investigations into the performance of the model when both
+the cloud and an inversion are represented figure shows the steady solutions for a weak
+inversion having a value of ckin and fig shows the steady solutions for a fairly strong
+inversion having a value of ckin the higher value of the inversion strength although
+large is still on the order of of the values of the inversion strength that were measured
+during fire typically around to cfcm by comparing the figures we observe that the
+intensity of the circulation patterns for the weaker inversion is stronger than that for the stronger
+inversion however we are concerned that for higher values of the rayleigh number the
+circulations penetrate too deeply into the inversion this result may be due to the fact that the
+latent heating as represented in this model is warming the flow far more than that found in the
+actual boundary layer possibly inclusion of radiative forcing will compensate for this effect
+the research for this work was supportedinpart by the national science foundation through grant atm
+and by the office of naval research through contract nk
+pizoface lal nct flmedl
+i
+oralplaooqlqpmolrpul uooz pnola onh lopomlopwoo
+uotleclrn omltlmolocrlmipmfloloa
+itonmoqj i uomteozltcp io steolutmoluoootllgplou oqolsmpaodgoamono uomuluoujolqputi i
+ocpjonlw oclellouluosoadoautlpoqsepoqloang iolqlilj eq aojulmmopo ogiluarasoopnoiamiiuoll omlmmdmolputm
+ioliraolazakuolxlg goluopmomtp piel t oulli
+el
+e
+ulo ut quwl
+i tic tl o tl i o ii ilroot aii qiol
+iii si lr iii i t iiliii t li o
+i
+i
+ii
+o o 
+y i 
+l r i i 
+i
+t ii ilqsiid lliiiiiillllllp 
+iio t ilollqmlzs d iilnlllml 
+wlol ut qluwl
+i t tt o it it it i el ii quvl
+ir
+i i
+i j i
+ii iu 
+t
+ipn t iilol a tllll a 
+pnot i oolsa lelea o
+irlooy u qusl
+t t o i i tl tt ol ii i qlllr i
+i i it t ii it it ii l i l l
+c 
+ii
+i
+i i i
+ilif v t
+t
+i
+i i 
+i t t
+o o
+isl
+pn t o
+pnol t lo itreeafubction t cloud it etreamfunctlon t cloud
+lit
+n
+r
+o 
+o o lo 
+length in rsgth in ioolm
+veztical velocity oo t cloud it yerticl velocity t cloud
+o
+iiii
+i
+f
+o 
+i 
+l 
+leth in om length ii looi
+o temperature perturbation t cloud t temperature perturbtioq o i cloud
+tt
+cj 
+o 
+q 
+lhqth ih iooxl
+lnth l lozm
+rrl
+a
+figure thesteadystatedimcnsioalc trcamrmonv verticalvelocity coontherit oeachfigurethebaseothelnvcnio lshownbythe
+wandtcmpcraturlcrturbatjontfor cloudfreeu withaniawazioa ticthedasb lie rcpreacntnegativevlu of thfieldsthecontour
+intervalarctbsame infig
+basedatzztd havingthevalue cjkforpa a and
+kbtreamfuoctlon 
+cloud temmfunctlon
+it 
+a
+i i i
+i 
+i 
+i 
+j i
+logth lm looxm
+vet tlcel veloclt t clou
+it vertical velocity i cloud
+ii 
+i ivi
+j 
+i
+o ii iii
+o l o o l 
+lddngth lm lom
+lentth in lol
+tpersture perturtloa i cloud it tperiture perturbation i cloud
+zt
+i
+i
+li 
+ladgth lm looli li 
+lerllth loolnl
+a
+cb b
+c 
+figu tix steady mtc dcoe rauzuo vtac velocity
+ra r i andcoon therighotfeachguxcthecloudregionis
+w nd tamrc pertmoo t fo coud owcdng o domaln
+incticztbeytdhevrxticaltilncwththeinversiobnaseatcloudtopthedashed
+with an tnvujoo baled atz thaving tl valueckin for
+linej rclxccntnegative vucof the fields the conto intervals arcthesame
+u lnfigstreaofunctio t cloud itresfuaction i cloud
+o 
+t 
+o 
+o o l l i o o 
+length in looze
+vertical velocity cloud
+lt vortical velocit 
+i i t i i
+ii t 
+i i j ol i i j 
+i ljo ii i j i j a 
+tngth in lom ii i 
+length in looxm
+temperature perturbation o k jt cloud it yemperlture port urbit foe
+it
+g
+i
+f
+oc
+a i lo ii 
+length to looxm
+c 
+n
+a
+rm
+figure the steady state dmclonlc slzcamfunctoo wrtcal vclocty
+w and tmperat perturbation ffor cloud covering of the domain ra r a and co on th right of ch figure the cloud region
+with an invcrson bascd at z sz thaving the value ckin for b iudated by the vertal line wth the inversion base at cloud top the
+datshod rcpreasent negative vaju of fields the contour intrxv arc
+the me u in fig 
+l
+i

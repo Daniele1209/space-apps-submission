@@ -1,0 +1,226 @@
+n
+the effects of solar particle events on the middle atmosphere
+charles h jackman and anne r douglass i
+laboratory for atmospheres
+code 
+nasagoddard space flight center
+greenbelt md 
+u s a
+paul e meade
+department of astrophysical planetary and atmospheric sciences
+university of colorado
+boulder co 
+u s a
+introduction
+solar particle events spes have been investigated since the late s
+for possible effects on the middle atmosphere solar protons from spes produce
+ionizations dissociations dissociative ionizations and excitations in the
+middle atmosphere either directly or through a photochemical sequence both ho x
+h oh hoz and nox n no noz are produced as well these hox and no x
+constituents are important because they can lead to the destruction of ozone
+most of these investigations have been primarily focused on the effects of spes
+on ozone however a few have been related to the effects of spes on odd nitrogen
+n no no no n hnoz hono z and ciono constituents
+the spes are good tests for model validation because the large
+perturbations to the atmosphere associated with spes are confined to high
+latitudes last only for days to months and are easily distinguished in
+satellite data this allows the comparison of measurements with a wide variety
+of models ranging from simple point models to twodimensional models
+ozone depletions have been observed during and after nine separate spes
+over the past two solar cycles heath et al mcpeters et al thomas
+et al solomon et al mcpeters and jackman spes have also
+been observed to increase no during one spe mcpeters 
+the production of hox and nox and their subsequent effects on ozone can
+also be computed using energy deposition and photochemical models we discuss
+the effects of speproduced no x species on the odd nitrogen noy abundance of
+the middle atmosphere as well as the speproduced longterm effects on ozone
+the influence of hox species on ozone has been discussed in other papers eg
+solomon et al jackman and mcpeters and will not be repeated here
+odd nitrogen noy variance due to spes
+the production of noy species by spes has been predicted since the mid
+s crutzen et al recently a satellite measurement mcpeters
+was made of the no increase after a major spe july this measured
+no increase was in good agreement with our predicted no increase computed
+tunlverslties space research association resident associateassumingnitrogen n atomsproducedper ion pair porteert al 
+theagreemenbtetweenthe predicted andmeasurednoincreasehas given us
+confidencein the reliability of the computationsfor noyspecies increase
+causedby spes
+adatasetof protonfluxeshasbecomaevailable fromthomaasrmstrongand
+colleaguesuniversity of kansaswhichallowsfor a daily computationof ion
+pair productionandsubsequentlyn oyproductiondueto spestheprotonfluxes
+aregivenin integral formfor energiesgreaterthani mevmevandmev
+thedataareavailablefor the timeperiodthroughwehaveusedthose
+data in a mannersimilar to that discussedin jackmaanndmeadeand
+computea daily ion pair productionover the year time period in a form
+suitable for inclusion in ourmodel
+theionpair productioncomputewdith the useof the daily averageproton
+flux data of t armstrongcomparesfavorably with the ion pair production
+computeudsingthehourlyaverageprotonflux datafoundin thesolargeophysical
+datapublication for mostspeshowevefror theaugustspethe ratio of
+thehourlycomputeidonpair productionto thedaily computeidonpair production
+rangesfromabout in thestratosphereto near in themesospherew ehave
+normalizedthedaily to thehourly computeidonpair productionfor this onespe
+only for tworeasonsi thehourly computeidonpair productionis believedto
+bemoreaccuratethanthe daily computeidon pair productionand theaugust
+speis the mostimportantspein the last twosolar cyclesfor its effects
+onthemiddleatmosphere
+theion pair productionwasinput into our twodlmenslonaplhotochemical
+modeldouglaestsal whosevertical rangehasbeenextendedto befrom
+the groundto aboutkmwith abouta kmgrid spacingandfromsto n
+with a i
+grid spacing it was assumed that n atoms are produced per ion
+pair in this model computation the spe production of n atoms was only input
+at geomagnetic latitudes above see jackman and meade for an
+explanation
+the twodimensional model was run to an annual equilibrium condition in
+which the seasonal values of constituents repeat yearly the model was then run
+for years from through and investigated for changes for all model
+runs in this investigation the ultraviolet flux was not allowed to vary with the
+solar cycle
+figure la illustrates the variability of noy at mb km and n
+over the year period note that noy can vary dramatically after an spe
+especially after the august spe but the noy values generally return to
+their ambient levels to months after the event the noy seems to be affected
+only by those spes which have an ion pair production over about i ion pairs
+cm sec this is not a strict rule as the time of year and therefore the
+ambient noy amount help determine the magnitude of the noy change at a certain
+level see jackman and meade for further discussion some downflux of noy
+from the spes mesospherlc production of noy is also associated with the spes and
+is important during certain seasons late fall winter and early spring this
+downflux can also influence the amount of noy in the upper stratosphere
+figure la as well as our analysis of noy at other altitudes and latitudes
+indicate that the noy produced by spes over solar cycle time periods does not
+build up but can be important at high latitudes on seasonal timescales this
+result is not surprlzlng given the small fraction of the annual odd nitrogen
+budget that was computed by jackman et al to result from spes the
+majority of the annual production of odd nitrogen is a result of nitrous oxide
+oxidation and was recently computed jackman et al to be x no
+molecules per year the largest production of no molecules from spes was in theyear at the level of x no molecules per year only of the
+nitrous oxide source the production of no molecules from spes in other major
+speactive years is typically half or less than that computed for 
+longterm ozone variance due to spes
+figure ib illustrates the variability of ozone at mb km and n
+over the year period the ozone decreases are directly correlated with the
+noy increases presented in figure la
+the percentage change in modeled ozone as a result of the august spe
+is given in figure at two latitudes the latitudes in the northern hemisphere
+nh at n figure a and n figure b indicate a larger ozone depletion
+at n than at n other latitudes investigated from our model results show
+a similar behavior with the larger ozone depletions being associated with the
+higher latitudes this behavior was also observed in the buv ozone data jackman
+and mcpeters the magnitude of the depletion observed in the buv dataset
+was similar to that predicted by the model computation for example about a
+maximum ozone depletion was observed between and n and about a 
+maximum ozone depletion was observed between and n
+our model results at s not shown indicates over a ozone depletion
+but the model at n indicates a i depletion in the time period to 
+days after the spe implying a large hemispheric difference in the level of ozone
+depletion maeda and heath showed that the sh did experience a
+larger ozone loss than did the nh speproduced noy in winter has a far greater
+effect on ambient noy amounts and therefore on ozone levels than does spe
+produced noy in summer see jackman and meade for more discussion on spe
+effects on noy amounts
+discussion and conclusions
+model computations indicate fairly good agreement with ozone data for the
+speinduced ozone depletion caused by noy species connected with the august 
+spe future studies should include a more detailed intercomparison of the ozone
+behavior with altitude latitude and time it would also be useful to compare
+these detailed studies with another large spe perhaps one that occurs during
+the current solar active period since noy constituents are responsible for over
+of the ozone loss in the stratosphere jackman et al it is useful
+to validate the noy photochemistry which is used in atmospheric models to predict
+ozone amounts
+our model computations indicate that noywill not be substantially changed
+over a solar cycle by spes the changes are mainly at high latitudes and are
+on time scales of several months after which the noy drifts back to its ambient
+levels
+acknowledgements
+the authors would llke to thank thomas r armstrong university of kansas
+for sending solar proton data that was used in the ion pair production
+computations for this paper we would also like to acknowledge sushil chandra
+of nasa coddard space flight center for useful comments on an earlier version
+of this manuscriptreferences
+crutzen p j s a isaksen and
+g c reid solar proton events
+stratospheric sources of nitric oxide science 
+douglass a r c h jackman and r s stolarskl comparison of model results
+transporting the odd nitrogen family with results transporting separate
+odd nitrogen species in press j geodhys res 
+neath d f a j krueger and p j crutzen solar proton event influence
+on stratospheric ozone science 
+jackman c h and r d mcpeters the response of ozone to solar proton events
+during solar cycle a theoretical interpretation j geodhys res 
+jackman c h and r d mcpeters solar proton events as tests for the fidelity
+of middle atmosphere models physlca scridta tis 
+jackman c h and p e meade effect of solar proton events in and 
+on the odd nitrogen abundance in the middle atmosphere j geodhvs res
+jackman c h j e frederick and r s stolarski production of odd nitrogen
+in the stratosphere and mesosphere an intercomparison of source strengths
+j geodhvs res 
+jackman c h r s stolarski and j a kaye twodimensional monthly average
+ozone balance from limb infrared monitor of the stratosphere and
+stratospheric and mesospherlc sounder data j geoohys res 
+jack an c h p d guthrle and j a kaye an intercomparlson of nitrogen
+containing species in nimbus lims and sams data j geophys res 
+maeda k and d f neath stratospheric ozone response to a solar proton event
+hemispheric asymmetries paeodh i 
+mcpeters r d a nitric oxide increase observed following the july solar
+proton event geophys re lett 
+mcpeters r d and c h jackman the response of ozone to solar proton events
+during solar cycle the observations geodhys res 
+mcpeters r d c h jackman and e g stasslnopoulos observations of ozone
+depletion associated with solar proton events j geophys res 
+porter h s c h jackman and a e s green efficlencles for production
+of atomic nitrogen and oxygen by relativistic proton impact in air j
+chem phys 
+solomon s d w rusch jc gerard g c reid and p j crutzen the effect
+of particle precipitation events on the neutral and ion chemistry of the
+middle atmosphere odd hydrogen padet space sci 
+solomon s g c reid d w rusch and r j thomas mesospherlc ozone
+depletion during solar proton events paper presented at the sixth esa
+pac meeting eur space agency interlaken switzerland april 
+thomas r j c a barth g j rottman d w rusch g h mount g m
+lawrence r w sanders g e thomas and l e clemens mesospheric
+ozone depletion during the solar proton event of july i
+measurement geonhys res left ia noy change at mb km n
+i i i i i i i i i i i i i i i i i i i i i t
+w
+c
+z
+r 
+c
+w
+z 
+w
+j
+w
+t
+i i l i i i i i i i i i i i i i i i i i i
+b ozone change at mb km n
+w 
+c
+w 
+z
+w
+w 
+figure a model predicted no percentage change at mb km and n
+b model predicted ozone percentage change at mb km and npue z i
+g i i o sie i nouoo eq e uai s pue s zli
+snnv bq o insbl e st buqo uozo ill no q pue noel e ao zl ut
+leb o kp o uotoun e s uq uld uozo potpid ipow z ingt
+nva avo
+ill jiiiiiiiiiit ii ill iiiitllliiiji iiiiiiti kill c o
+or
+ci
+ici
+rrl
+o
+nocj iv nvho vjnohlcl q
+bvao xca
+og l
+o
+i
+m
+ill
+i 
+nocj iv onvho vinsd o o

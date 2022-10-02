@@ -1,0 +1,210 @@
+n
+mesoscale variability of free troposheric humidity
+near san nicolas island during fire
+ab white cw fairall and dw thomson
+department of meteorology
+walker building
+pennsylvania state university
+university park pa 
+introduction
+humidity variability at the top of the marine boundary layer mbl and
+in the free troposphere has been examined using a variety of measurements
+taken on and around san nicolas island sni during the fire ifo in july
+doppler wind profiler reflectivity recorded at two minute time
+resolution has provided the most continuous record and detail of small scale
+humidity fluctuations rawinsonde data was available from both an island
+site and the research vessel point sur the information extractable from
+these sources is somewhat limited due to the frequency of launches day
+at sni and day on the point sur some additional data was available from
+instrumented aircraft although scheduling flights in the neighborhood of the
+island was difficult due to restrictions on the air space other relevant
+data was collected at sni near the radar and rawinsonde launch sites a
+continuous record of cloud base altitude was logged by a ceilometer doppler
+acoustic sounder sodar reflectivity data provided a good record of
+inversion height the sodar also monitored turbulent temperature
+fluctuations in the mbl a small ground station recorded hourly averages of
+solar irradiance and downward longwave irradiance
+this paper describes analysis in progress of the various data sets
+described above for two adjacent two day periods from ii july to july
+the earlier period was chosen because the marine inversion was unusually high
+and there was increased frequency of rawinsonde launches at sni the later
+period was chosen because of the significant descent with time of an elevated
+inversion indicated by the radar data throughout the four day period but
+especially in the first half the turbulent humidity structure calculated
+from doppler radar reflectivity shows excellent agreement with humidity
+profiles evaluated from rawinsonde data
+interpretation of doppler radar reflectivity
+penn states doppler wind profiler used at sni operates at a frequency
+of mhz for fire the pulse width was set at i s to provide the best
+possible range resolution while satisfying the receiver bandwidth constraint
+the pulse repetition frequency was i hz processing of radar
+reflectivity is accomplished in the following manner the complex video of
+consecutive pulses are coherently averaged time domain integration a
+set of of these integrations is processed by a fast fourier transform
+fft to produce one spectrum incoherent averaging is then performed on 
+of these variance spectra to produce the two minute averaged spectrum from
+which the signalnoise ratio snr is extracted
+since radar backscatter occurs in a volume vs defined by the pulse and
+beam widths volume reflectivity n replaces the more familiar backscatter
+crosssection a where nav the volume reflectivity is related to the
+snr by the spectral radar equation vanzandt et al 
+preceding page blank not filmedckbt 
+c trx r 
+i
+p f a cosx snr
+t rp
+where c is the speed of light k is boltzmanns constant b is the bandwidth
+of the integrating filter is the combined antennaline efficiency t
+and t are noise temperatures for cosmic noise and the receiver p iscthe
+rx t
+transmztted power f is the pulse repetition frequency a is the antenna
+area x is the off vrtical beam axis angle r is the rang and ar is the
+range resolution based on comparison with a previously calibrated mhz
+doppler wind profiler located in central pennsylvania the overall antenna
+efficiency was chosen to be additional calibrations of the antenna
+using aircraft data are currently underway at m at t so to a
+first approximation cosmic noise interference may be neglecte th the
+appropriate values inserted i becomes
+xirsnr
+the backscatter intensity of the radars signal depends on the mean
+refractive index gradient existing in the scattering volume therefore the
+refractive index structure function parameter c can be written in terms
+of the radars volume reflectivity ottersten i
+c i
+n 
+insertion of a m and into yields
+c xirsn r 
+n
+both temperature and humidity fluctuations may contribute to variations
+inthe refractive index within the scattering volume in radar studies of
+cn at low altitudes the contribution due to temperatzure luctuations is
+usually ignored wesley conversion from c to c is then
+following burk n q
+c c tp
+q n 
+where t is the temperature and p is the pressure in mb within the
+scattering volume combinbin and yields the final form of the
+equation used to determine c from doppler radar reflectivity
+q
+c eirsnrtp
+q 
+rawinsonde data
+during the fire ifo colorado state university operated a crosschain
+loran atmospheric sounding system class at sni scientists from the naval
+postgraduate school launched viz loranotype sondes from the point sur for
+additional information on the class system and details on processing of the
+sni rawinsonde data see schubert et al a water vapor mixing ratio
+q was computed in the standard wayresults
+fig i shows a timeheight crosssection of logc contours gkg
+from for july in this and the following figures time in ours is
+measured continuously starting at z on ii july higher values of c
+correspond to regions of increased scattering from turbulent humidit
+fluctuations in regions of active turbulence the structure function
+parameter c for a particular variable x is proportional to the square
+x
+of the vertical gradient of x fairall et al 
+cx xcu n axaz 
+where x could be t q or n cu a measure of local turbulence is the
+velocity structure function parameter n is the bruntvaisala frequency and
+xd is a constant thus c should correlate well with vertical humidity
+gradients q
+for comparison fig shows q contours gkg derived from rawinsonde
+data for the same time period shown in fig i the swath of high aqsz
+across the middle of fig is evidence of the mbl inversion height
+decreasing from about i m at the beginning of ii july to about m at
+the endof july note that the humidity gradients r well correlated
+with c except for a period from z to z in which reaches a local
+minimu while aqaz approaches its maximum value q
+this apparent disagreement with the relationship in can be analyzed
+using additional data obtained from the remote sensors located at sni a
+record of cloud base measured by the ceilometer schubert et al b is
+shown in fig clear sky is depicted by a point at m the period
+labeled z to z shows a sharp decrease in cloud base suggesting a period
+of strong subsidence which eventually leads to clearing just after z wind
+speed contours from merged sodarwind profiler data sets syrett are
+shown in fig here the period from z to z is characterized by light
+winds and negligible vertical wind shear thus for the period in question
+one may conclude that although a strong humidity gradient exists the
+mechanisms that would normally generate turbulence in the region of the
+gradient such as cloud top entrainment ad vertical wind shear are not
+present resulting in lower values of c
+q
+references
+burk sd refractive index structure parameters timedependent
+calculations using a numerical boundarylayer model j appl
+meteor 
+fairall cw dw thomson and r markson an aircraft and radar
+study of temperature and velocity microturbulence in the stably
+stratified free troposhpere preprint vol eighth symposium on
+turbulence and diffusion amer meteor soc boston ma 
+ottersten h atmospheric structure and radar backscattering in clear
+air radio scischubert wh pe ciesielski tb mckee jd kleist sk cox cm
+johnsonpasqua and wl smith jr a analysis of boundary layer
+sounding data from the fire marine stratocumulus project colorado
+state university atmospheric science paper no fort collins co
+i pp
+schubert wh sk cox pe ciesielski and cm johnsonpasqua b
+operation of a ceilometer during the fire marine stratocumulus
+project colorado state university atmospheric science paper no 
+fort collins co pp
+syrett wj hourly wind potential temperature and richardson number
+profiles at san nicolas island during project fire fire technical
+report no dept of meteor pennsylvania state university
+university park pa pp
+vanzandt te jl green ks gage and wl clark vertical
+profiles of refractivity turbulence structre constant comparison of
+observations by the sunset radar with a new theoretical model radiq
+sci 
+wesely ml the combined effect of temperature and humidity
+fluctuations on refractive index j appl meteor 
+acknowledgements this work is supported by onr contract nk
+the authors wish to express special thanks to bob peters dick
+thompson and scott williams of the department of meteorology psu for their
+part in the development and installation of psu instrumentation at sni
+fig i timeheight crosssection of logcq contours gkg calculated from
+doppler radar reflectivity
+fig timeheight crosssection of specific humidity contours gkg from
+rawinsondes launched at sni data was compiled by schubert et al a
+fig filtered cloud base versus time from ceilometer data collected at
+sni during fire after schubert et al b clear sky is depicted by a
+point at m
+fig timeheight crosssection of wind speed contours ms derived from
+merged sodarwind profiler data sets after syrettb
+oo
+i
+i i i
+rime gmt
+fig filtered cloud base versus time from catlometor data collected at
+sri durln fire after schubert otal b clear sky is depicted by a
+point a m
+ooo
+t
+i
+d 
+w
+i oo
+o
+oo
+oo
+o
+oo
+o
+time gmt
+fig timeheight crosssection of wind speed contours ms derived from
+mersed sodarwlnd profiler data sets after syrettt
+t
+s 
+r
+o
+o
+i p 
+te gmt
+fie timeheiht croeeeectiom of c contours glkg calculated from
+doppler radar reflectivity
+oo
+i
+w
+i 
+tmegmt
+fi timehelght crosssection of speclfic humidity contours skl fro
+rawinsondes launched at sni data was compiled by schubert at al a

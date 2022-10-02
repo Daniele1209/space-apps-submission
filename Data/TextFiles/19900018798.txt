@@ -4,7 +4,7 @@ graphiteepoxy buffer strip panels
 john m kennedy
 hacarioz ao tlccanc nf woyei ngozzi
 goaphitfcpoxy ijftip panfls nasa
- n cscl ok
+n cscl ok
 c f
 august 
 n a
@@ -48,7 +48,7 @@ appreciablyaffectedbytiledcnselowmodulusbuffermaterialthedamagetoleranceof
 thepanelisimprovedbecausecrackspropagatingfromdamagearearrestedbythebuffer
 stripsandthepanelcarriesadditionalloadbeforefailing thecracksarearrestedbecause
 themodulusofresilienceortoughnessofthesglassandkevlarfibersisgreaterthanthat
- kevlarregisteredtrademarkofe idupontdenemoursandcoincof thegraphitefibersl usuallydelaminationsand matrix cracks develop in the buffer
+kevlarregisteredtrademarkofe idupontdenemoursandcoincof thegraphitefibersl usuallydelaminationsand matrix cracks develop in the buffer
 strips ahead of the arrested cracks which elevates the residual strength even more 
 the buffer strip panels reported in were made using prepreg tape the manufac
 turing cost was high because each strip of buffer material had to be individually placed into
@@ -86,15 +86,15 @@ tensile strain in infinite sheet due to compressive loading
 ey
 critical farfield tensile strain in shear panel
 ey
- critical damage size m
- shear strain
+critical damage size m
+shear strain
 v poissons ratiokg
 p
 density
 critical farfield shear stress pa
 subscripts
 xyxy cartesian coordinates
- coordinates parallel and perpendicular to fibersexperimentalprkedures
+coordinates parallel and perpendicular to fibersexperimentalprkedures
 materialsandspecimens
 thespecimensweremade with t graphite and s glass uniweave cloth
 details of the cloth test specimens and curing procedures are given in figure shows
@@ -116,8 +116,8 @@ panels had a quasiisotropic layup and most had buffer material that was in only 
 one group of tension panels had buffer snips in all plies all panels were plies thick
 except one group of tension panels which was plies thick the shear panels were
 quasiisotropic and crossplied all of the shear panels had buffer material in the and 
- t registered trademark of union carbide
- s registered trademark of mplies tableshowsthenumberof panelstestedfor eachconfigurationslitsbetween
+t registered trademark of union carbide
+s registered trademark of mplies tableshowsthenumberof panelstestedfor eachconfigurationslitsbetween
 mmandmmlongweremachinedintothecenterofeachspecimentosimulatedamage
 asheetm adewiththeallgraphiteclothwiththestackingsequences
 wascutintotensileandfracturecouponsthelayoutofthesheetis shownin elastic
@@ -186,7 +186,7 @@ thepliestheresultsshowthatincreasingthewidthofthebuffersnipwhileholdingthe
 thicknessconstantincreasedthefailingstrainconsideringgroupsofpanelswiththesame
 hb
 width buffer strips the panels with or had higher failing strains than panels withhb
- the dominant parameter however was buffer strip width because the failing strain
+the dominant parameter however was buffer strip width because the failing strain
 ho
 of panels with the thickest buffer strips was less than that of panels with the widest 
 ram buffer strips finally the panels with buffer material in every ply failed at the highest
@@ -203,7 +203,7 @@ strips in every ply the radiograph taken before initiation shows a large area of
 extending from the ends of the slit the radiograph taken after arrest shows an even larger
 delamination area extending into the buffer strips the delaminations in this panel are much
 larger than in the panels with buffer material in only the plies fig references and
- showed that delamination increased the fracture strength of composite laminates by
+showed that delamination increased the fracture strength of composite laminates by
 reducing the stress concentration in the fibers near the end of the slit thus the higher strains
 should be expected for fracture initiation in the panels with buffer strips in every ply due to
 the large delaminations seen in the radiographs
@@ -235,7 +235,7 @@ damage the shearlag parameters were chosen to correlate with data from panels wi
 damage the shape of the curve is based on the mechanics in the model and is not a
 parameter only the data from the panels made with tape and from the uniweave panels
 with mm wide buffer strips plies correlated well with the prediction the data from
- mylar registered trademark of e i dupont de nemours and co inctheuniweavepanelswithmmandmmbufferstripswerebelowthepredictedcurve
+mylar registered trademark of e i dupont de nemours and co inctheuniweavepanelswithmmandmmbufferstripswerebelowthepredictedcurve
 figureasdidfigureshowsasubstantiallylowerfailingstrainofpanelswithnarrow
 bufferstripthanpanelswithwidebufferstrips
 thepoorcorrelationforthedatafrompanelswithnarrowbufferstripsisduetothe
@@ -287,9 +287,9 @@ extensional strains to the principal shear strain state and thus
 rxy gx y cywheregxyis theeffectiveshearmodulusof thesheetin thexy coordinatesystemsee
 fig combiningandandsolvingforxxy gives in terms of the fracture strain of
 the uniaxial sheet
- gx y f
+gx y f
 xy 
- vyx gxy ey 
+vyx gxy ey 
 ey
 and substituting into gives
 ey 
@@ -299,7 +299,7 @@ lit
 system for isotropic materials cxyand ey reduce to
 xy egy f 
 and
- f
+f
 ey vey 
 finally using equation where ey f is the predicted farfield failing strain of an infinite
 orthotropic sheet with a crack under uniaxial tendie load the curve in figure is
@@ -347,7 +347,7 @@ x y lstv
 where ks and is the boundary condition correction factor and ls mm and is the
 length of a side of the panel using equations and figure shows the ratio of xxy
 to xxby versus panel thickness for plain panels with various slit lengths and for a panel with
- mm wide buffer strips and an arrested crack the figure shows that for panels with
+mm wide buffer strips and an arrested crack the figure shows that for panels with
 realistic thicknesses plies is mm shear panels may be fracture critical for larger slits
 or damage panels are more likely to fail due to fracture in contrast a buffer strip panel is
 more likely to fail due to buckling because the buffer strips elevate the fracture stress it
@@ -364,16 +364,16 @@ model for buffer strip panels it was concluded thattension buffer strip panels m
 same failing strain as panels made from prepreg tape the buffer strips arrested
 the cracks and the failing strain or strength was much higher than the failing
 strain of allgraphite panels with similar damage
- buffer strip panels tested in shear arrested cracks like panels tested in tension
- buffer strip geometry significantly affected the failing strain of panels with
+buffer strip panels tested in shear arrested cracks like panels tested in tension
+buffer strip geometry significantly affected the failing strain of panels with
 arrested cracks panel strengths increase with both buffer strip width and buffer
 strip thickness for panels with narrow buffer strips strain measurements
 showed the panels failed when the strain in the graphite just beyond the buffer
 strip reached the failing strain of graphite panels with wide buffer strips failed
 when the buffer strips failed
- panels with buffer material in every ply had the highest strength and were notch
+panels with buffer material in every ply had the highest strength and were notch
 insensitive net section stress equals the tensile ultimate strength
- the shearlag model predicted the failing strain of tension panels with wide
+the shearlag model predicted the failing strain of tension panels with wide
 buffer strips accurately the model overestimated the failing strain of tension
 panels with narrow buffer strips because the failure mode in the panels was
 different than the failure criterion used in the model the model overestimated
@@ -406,7 +406,7 @@ appendix
 the analysis in was developed to predict the notched strength for any laminate
 orientation the panels tested herein were ply dominated and thus the analysis simplified
 considerably from i the strains at the cracktip in mode i loading for a ply are
- vyxe x
+vyxe x
 g qkr vyxassumingthatthelaminatefailswhentheaxialstrainparalleltothefibersin theprinciple
 loadcarryinglaminaebecomescriticalthenclrwill beaconstantatfailurewhichleads
 to
@@ -419,19 +419,19 @@ qc etuf a
 thus using a and a fracture strains of laminates under uniaxial loading can be predicted
 from
 ey f keq
- nac atable specificationsofbufferstrippanelsandtestresults
+nac atable specificationsofbufferstrippanelsandtestresults
 laminate testtype wb hb buffer panel slit fracture failure f panel c
 xycord mm mm plies no length initiation strain ey modulus
 mm strain ey gpa
- a 
+a 
 s tension 
- a 
- a 
- a 
+a 
+a 
+a 
 i
 s tension o 
 s shear 
- o 
+o 
 btable concluded
 laminate testtype wb hb buffer panel slit fracture panelc
 failure f
@@ -477,12 +477,12 @@ bufferstrip
 figure uniweave cloth with mm wide buffer snipsy
 y
 i s slitx 
- buffer
+buffer
 i trp
- slit 
+slit 
 x
 to
- w b w
+w b w
 j
 x
 i m m
@@ -499,11 +499,11 @@ edge of
 oo
 buffer
 strip
- i o
+i o
 crack lengthomm
 fracture arrest results for tension buffer strip panels with mm wide and
 figure 
- mm thick buffer stripsoriginae page
+mm thick buffer stripsoriginae page
 black and white fhotograp
 a before initiation
 b after arrest
@@ -522,7 +522,7 @@ b b
 in o plies
 i equal cros s
 b wb mm hb omm j sectional area
- of sglass
+of sglass
 tape i
 wb mm hb omm
 un iweavei
@@ -530,15 +530,15 @@ buffer
 material w mm h mm
 b b
 in every ply
- i i i i i i i
+i i i i i i i
 remote failing strain
 figure remote failing strain of tension buffer strip panels with arrested cracksremote
 strain 
 y
 tj
- edge of
+edge of
 buffer strip
- i 
+i 
 crack lengtha mm
 figure fracture arrest results for tension buffer strip panels with mm buffer strips in every plyopigitqal page
 black ad white ptioiograpn
@@ -564,7 +564,7 @@ figure fracture data from s buffer strip panels wb mmshear lag model
 f ii
 y
 tub
- wb mm 
+wb mm 
 or l
 l wb ram
 i
@@ -574,13 +574,13 @@ lj
 open symbols uniweave
 fi lied symbols tap e 
 i i i i i i i i i
- i 
+i 
 he
 w x mm
 e hbe b 
 figure l correlation of experimental and analytical results for buffer strip panels with arrested cracksi i o failure
 q after arrest
- buffer before arrest
+buffer before arrest
 w strip
 o
 strain
@@ -598,7 +598,7 @@ ta
 edge of v
 buffer strip 
 i i i i if
- i 
+i 
 crack lengtho ram
 figure remote tensile slrain verses crack length for s shear buffer strip panel wb mmt
 m t t
@@ -612,10 +612,10 @@ o s
 fully constrained
 partially constrained
 fully constrained
- s
+s
 i
 shear lag model
- i i i i i i i
+i i i i i i i
 remote tensile strain ey
 figure predicted and measured failing strain of buffer strip panels tested in shearnk and wite photograp
 a tension ey 
@@ -630,34 +630,34 @@ b
 frature
 x y
 l
- ram
+ram
 o mm
 i i i i i
 l
- i 
+i 
 thickness mm
 figure comparison of fracture strength to buckling stress for quasiisotropic shear panels with slitsreport documentation page
- report no recipients catalog no
+report no recipients catalog no
 nasa tm 
- title and subtitle report date
+title and subtitle report date
 damage tolerance of woven graphiteepoxy august 
 buffer strip panels performing organization code
- authors performing organization report no
+authors performing organization report no
 john m kennedy
- work unit no
- performing organization name and address
- contract or grant no
+work unit no
+performing organization name and address
+contract or grant no
 nasa langley research center
 hampton va 
- type of report and period covered
- sponsoring agency name and address
+type of report and period covered
+sponsoring agency name and address
 technical memorandum
 natiomd aeronautics and space administration sponsoring qgency code
 washington dc 
- supplementary notes
+supplementary notes
 dr john m kennedy department of mechanical engineering and engineering mechanics clemson
 university clemson sc dr kennedy was employed by nasa when report was written
- abstract
+abstract
 graphiteepoxy panels with sglass buffer strips were tested in tension and shear to measure their residual
 strengths with cracklike damage the buffer strips were regularly spaced narrow strips of continuous s
 glass panels were made with a uniweave graphite cloth where the sglass buffer material was woven
@@ -670,13 +670,13 @@ strain of the panels was significantly higher than the strength of allgraphite p
 slit panels with wide thick buffer strips were stronger than panels with thin narrow buffer strips a
 shearlag model predict the failing strength of tension panels with wide buffer strips accurately but over
 estimated the strength of the shear panels and the tension panels with narrow buffer strips
- distribution statement
- key words suggested by authorls
+distribution statement
+key words suggested by authorls
 composites shear
 damage tolerance
 fracture unclassified unlimited
 buffer strips subject category 
 tension
- security classd iof this report security classif of this pagel
+security classd iof this report security classif of this pagel
 unclassified unclassified no ofpages i aprice
 nasa form oct
