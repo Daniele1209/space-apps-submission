@@ -1,0 +1,553 @@
+z l s dip t 
+nasa contractor report 
+creep and creep rupture of strongly
+reinforced metallic composites
+dn robinson wk binienda and m mitikavuma
+university of akron
+akron ohio
+august 
+prepared for
+lewis research center
+under grant nag
+ri a
+national aeronautics and
+space administration
+ngozilo
+nasacrszsd cpefp aj cteep fujptu tjf
+btiongl y peinfoced fietallic composites
+final eport akron univ p cscl k
+screep and creep rupture of strongly reinforced
+metallic composites
+by dnrobinson wkbinienda and mmitikavama 
+abstract a creep and creep damage theory is presented for metallic composites
+with strong fibers application is to reinforced structures in which the fiber
+orientation may vary throughout but a distinct fiber direction can be identified
+locally local transverse isotropy the creep deformation model follows earlier work
+and is based on a flow potential function that depends on invariants reflecting stress
+and the material symmetry as the focus is on the interaction of creep and damage
+primary creep is ignored the creep rupture model is an extension of continuum
+damage mechanics and includes an isochronous damage function that depends on
+invariants specifying the local maximum transverse tension and the maximum
+longitudinal shear stress it is posited that at high temperature and low stress
+appropriate to engineering practice these stress components damage the fibermatrix
+interface through diffusion controlled void growth eventually causing creep rupture
+experiments are outlined for characterizing a composite through creep rupture tests
+under transverse tension and longitudinal shear application is made to a thinwalled
+pressure vessel with reinforcing fibers at an arbitrary helical angle the results
+illustrate the usefulness of the model as a means of achieving optimal designs of
+composite structures where creep and creep rupture are life limiting
+introduction
+when metallic structures operate at temperatures in excess of tin where
+tm is the melting temperature of the metal it is generally observed that the
+structure suffers timedependent deformation and eventually ruptures for components
+made of highly creep resistant materials or where distortion is not a controlling
+factor structural lifetime is often limited by creep rupture
+in design practice estimates of creep deformation are often based on
+generalizations of the classical norton creep law predictions of creep failure resulting
+from material deterioration are frequently based on generalizations of the kachanov
+ rabotnov damage law
+ prof univ of akron akron oh 
+ asstprof univ of akron akron oh 
+ grad student univ of akron akron ohgeneralizations of these laws eg leckie and hayhurst lemaitre and
+chaboche leckie have been proposed that account for multiaxial stress
+and that employ damage evolutionary laws reflecting various micromechanisms ashby
+and dyson these generalizations commonly employ concepts such as an
+effective stress and an isochronous failure function or surface important conclusions
+based on these formulations are that creep deformation rupture time and failure
+strain all are influenced strongly by the multiaxial state of stress further they
+conclude that damage evolves more or less anisotropically depending on the
+mechanisms involved
+the objective of this paper is to extend these results concerning creep and
+creep damage to metals that are reinforced by strong unidirectional fibers the focus
+is on reinforced structures where the fiber direction may vary from point to point
+but that a single material fiber direction is identifiable locally viz local transverse
+isotropy the strong fibers are assumed to suppress creep along their direction but
+in the presence of general states of stress both creep and creep damage occurs
+the representation of creep deformation follows earlier work concerning strongly
+fiber reinforced metals robinson and duffy and binienda and robinson
+ tensorial invariants identified in these works reflecting deviatoric stress
+dependence and the appropriate material symmetry are adopted in the present flow
+law as the emphasis here is on the interaction of creep and damage tertiary creep
+the relatively small contribution of primary creep cfpetrasek and titran
+grobstein ab is ignored
+a major assumption here is that the stress dependence of damage evolution is
+i on the maximum tensile stress normal to the local fiber direction and ii on the
+maximum longitudinal shear stress ie the maximum shear stress on planes
+containing the fibers and in a direction along the fibers it is postulated that the
+effects of these stress components interact to damage the composite internally along
+the fiber matrix interface eventually leading to creep rupture under this
+idealization tensile stress along the fibers causes no creep and no damage tensile
+stress however smal transverse to the fibers causes both creep deformation and
+damage in reality stress along the fibers causes damage and leads to a finite
+lifetime however the difference in damage rates and thus rupture times under
+longitudinal and transverse stress generally exceeds an order of magnitude grobstein
+a petrasek and titranstudies of creep damage of some monolithic alloys suggest that at lower stress
+levels appropriate to engineering practice creep rupture occurs mainly by
+intergranular void growth cocks and ashby in such cases void growth rates
+at a particular grain boundary are controlled by diffusion mechanisms which in turn
+are controlled by the maximum tensile stress transverse to the given grain boundary
+hull and rimmer chuang and rice here we postulate that the
+fibermatrix interface in a metallic composite plays a role on the mesostructural
+scale analogous to that of grain boundaries on the microstructural scale thus at
+high temperature and lower stress levels we anticipate that the maximum tensile
+stress transverse to the fiber direction may strongly influence void growth at the
+fibermatrix interface and consequently may correlate with a creep rupture
+mechanism based on interfacial degradation through diffusion related void growth it
+is expected that the diffusion mechanisms involved may include those known to
+control void growth rates at grain boundaries as well as other mesomechanisms
+observed to be present ifi metallic composite systems eg those leading to
+phenomena such as kirkendall porosity or the evolution of an interphase grobstein
+b as indicated earlier account is also taken of the contribution of longitudinal
+shear stress to interfacial degradation these stress dependencies of damage evolution
+are included by introducing invariants that correspond to the local maximum
+transverse tension and longitudinal shear these invariants are taken as arguments of
+an isochronous damage function cfleckie 
+as the damage invariants depend on the local stress and material orientation
+the rate of damage evolution is anisotropic thus rupture time and failure strain
+depend similarly on fiber orientation the degree of damage is measured by a scalar
+kachanov and thus does not reflect material directionality potentially this
+may lead to inaccuracies in hfe prediction of structures subjected to highly
+nonproportional loading it is expected that this will not seriously affect hfe
+prediction of proportionally loaded structures eg pressure vessels cfho 
+following the development of the creep creep rupture model experiments are
+outlined for the determination of the material parameters and functions application
+is then made to a simple structure ie a thin walled tubular pressure vesselthe creepcreep damage model
+the form of the creep deformation damage model proposed by leckie and
+tiayhurst is extended for metallic composites we consider hightemperature
+isothermal conditions and a composite of given fiber volume percentage
+generalization to nonisothermal conditions follows as in cocks and ponter 
+extension to other fiber densities is possible by considering key material parameters
+as functions of fiber volume percentage
+invariants identified in robinson and duffy and binienda and robinson
+ are adopted to account for material directionality local transverse isotropy
+as earlier an orientation tensor
+dij didj 
+is introduced where di are the components of a unit vector denoting the
+local fiber direction the invariants i and i are defined as cf robinson and
+duffy 
+i js is j
+is j i s
+in which
+i
+j t sijsji dijsji dijsjkski 
+and sii the components of the deviatoric stressthe physical meanings of i
+and are
+ s the maximum transverse shear stress
+s
+ the maximum longitudinal shear stress
+we define an additional invariant as
+ a a s 
+where
+ oii dijtzji
+and
+x xo
+ xphysically
+ the maximum transverse tensile stress 
+these invariants enter the model through two functions qbaiidij the flow
+potential function and aaijdij the isochronous failure function guided by
+binienda and robinson we take qb as
+ o jj i 
+where ao is a reference stress to be defined subsequently consistent with the
+discussion in the previous section the function a is taken to depend on the
+invariants jr and the surface a in the space will be
+termed the isochronous failure surface a specific functional form of a for a given
+material must be determined by experiment possible experiments for this purpose
+might employ reinforced thinwailed tubes of the composite of interest subjected to
+combined tension torsion and pressure as pertinent experimental results are not
+available currently here in the interest of simplicity we adopt a linear form figl
+a a 
+oo
+in which a is a material constant
+a modified calladine and drucker potential form serves as the flow law
+ie
+eij n 
+with q eq into eqll there results
+eij iij 
+m 
+eo ao n
+where
+l
+lij sii dii ij
+the evolutionary law is taken as cf leckie 
+ ai au i 
+in whichna
+m 
+the scalar i is the material continuity kachanov it equals unity for a
+material element entirely intact and zero for an element having lost load carrying
+capacity entirely
+as indicated earlier ao is a reference stress and
+eotoanv and a
+are material constants their physical meanings and their determination are the
+subjects of the following section
+an alternative and useful form of the flow law eq can be stated by
+defining an effective stress
+and an effective inelastic strain
+ j 
+ij ej i
+using eq the flow law can then be written
+i n n 
+o
+relating the effective stress and effective inelastic strain rate
+for the limiting case of isotropy the creep creep rupture model expressed in
+eqs reduces to that proposed by leckie and hayhurst and leckie
+ for isotropic alloys this reduction is discussed in the appendix
+determination of the material constants
+the model expressed in eqs predicts no creep and no damage under a
+constant longitudinal tension fig a under a transverse tensile stress a a
+fig b the model reduces to
+ n 
+n
+ aijoaovj mwhere e e the transverse creep rate fig b with a ao ie at the
+reference transverse stress and with g ie for an undamaged material eq
+ gives e co thus the constant eo represents the early creep rate under
+the transverse reference stress ao fig 
+again with a ao eq can be integrated from to giving
+t a
+n jx 
+at failure t tf and we have tf to from eq thus to
+denotes the time to failure under the reference transverse stress co fig b
+inserting eq into eq with a ao results in
+t a
+i ox 
+integrating eq over t to and e ef we get for the transverse
+failure strain ef
+ef
+ to 
+ef
+or a 
+eoto
+the constant is referred to as the creep damage tolerance in the literature on
+creep of monolithic alloys cf leckie in effect a measures the ability of
+the metal to withstand local straining at points of high strain concentration in a
+structure in design practice it is desirable that a 
+now we consider an arbitrary transverse tensile stress a not equal to the
+reference stress ao for eq then reduces to a simple norton power
+law with the constants ao and eo known and data pairs a measured from
+the early stages of a set of transverse creep rupture tests an optimal value of the
+exponent n can be determined
+next we focus on eq with a not equal to ao integrating over the
+lifetime g and t tf we obtain
+tf 
+go wg vagain with and to known and the data pairs tf measured from a set of
+transverse creep rupture tests an optimal value of v can be obtained at this
+point the only remaining constant to be specified is a in eq 
+under a constant longitudinal shear stress x r fig c eq reduces
+to
+a lv ar v an 
+ nn j yuj i m 
+integrating eq over and t tf there results
+tf 
+to araov
+combining eq and eq and solving for a we get
+ttt i
+ly 
+a r tls
+f
+where for purposes of identification ttt corresponds to the time to failure under
+f
+the transverse tension from eq and tis corresponds to the time to
+f
+failure under the longitudinal shear r from eq if we have several data pairs
+at t and rtlf s and v is known we can find an optimal value of a in
+particular if and v lie on the isochronous failure surface a then ttt 
+f
+tis to and from eq a this completes the procedure for specifying
+f
+the material constants
+creep rupture under multiaxial stress
+we now examine creep rupture under a constant multiar ial stress for fixed
+fiber orientation the functions aijaodij and aaijaodij are then constant
+eq can thus be integrated over t t and qj g providing
+cf eq 
+a
+n a v tat failure t tf and eq gives
+tf 
+to av
+we recall that for a viz a stress state on the isochronous failure surface tf
+t o
+now consider the alternative form of the flow law expressed in eq with
+ constant and making use of eq eq can be integrated over t tf
+and e ef as follows
+ef tf a
+f d n f adt
+ o 
+using eq in eq results in
+f
+ natf 
+o
+then using eq we have
+el n 
+ef av
+eqs and show that the time to failure tfaijodij and the effective
+failure strain efaijcrodij are functions of the multiaxial stress and the fiber
+orientation in principle for a given stress state the fiber direction can be chosen to
+optimize tf and f in accordance with eqs and and an appropriate
+design criterion
+in the next section we apply the theory presented here to a fiber reinforced
+thinwalled tubular pressure vessel there we calculate tf using eq and el
+using eq for the tubular vessel having a single family of strong helical fibers
+oriented arbitrarilyapplication to a thinwalled pressure vessel
+consider a thinwalled tube with dosed ends that is subjected to an interior
+pressure p the tube with radius r and wall thickness h is reinforced with a
+family of strong helical fibers making an angle with the circumferential direction
+x fig taking
+r a 
+the stress components oij and the deviatoric stress components sij in the tube
+wall are respectively
+u
+ull o s 
+u u sll s s 
+the components of the orientation tensor dij are fig 
+du sin d cos d sincos
+ds dl d 
+the relevant invariants can then be calculated
+is s 
+giving from eq 
+ a jios 
+uo
+additional invariants are
+s cos o
+ a cos in 
+aa
+leading to
+ a sofinally
+ey sin 
+and from eq 
+a ka os sin 
+oo
+using eqs and we write the dimensionless rupture time vs fiber angle
+ as
+tf v pr 
+j oh 
+s in
+evaluating eq for circumferential reinforcement and 
+longitudinal reinforcement and forming the ratio of these results we get for any
+pressure p
+tf v 
+t 
+thus the failure time for circumferential fiber strengthening may exceed substantially
+that for longitudinal strengthening typically v so that v 
+a graph of eq is shown in fig the three curves shown are for a 
+ and the first a implies that no damage results from the maximum
+longitudinal shear the last condition a implies that and the
+maximum transverse tension dr are equally damaging
+fig shows that for a the rupture time decreases monotonically with
+increasing fiber angle when longitudinal shear contributes to creep damage
+viz a or fig shows that the rupture time no longer decreases
+monotonically with but exhibits a minimum value at an intermediate fiber angle
+combining eqs and we obtain the dimensionless effective failure
+strain vs viz
+clefaor vn cos n 
+ cos sin vsimilarly evaluating eq for and and taking the ratio of these
+results we have for any pressure p
+ vn 
+f 
+now for definiteness we consider specific values of the exponents n and v 
+ and take the pressure as praoh the result is plotted in fig as earlier
+three curves are shown corresponding to a and with the given values
+of pn and v each curve shows ef ef at ie the effective failure
+strain is equal to that corresponding to transverse tension at the reference stress ro
+at each curve shows ef ef el consistent with eq 
+for the curve a in fig f reaches a maximum of ef at
+ conversely the curves a and each exhibit a minimum at an
+intermediate fiber angle
+the simple structure considered in this section is not of essential practical
+importance but serves as an illustrative example of the dependence of tf and f
+or equivalently an effective creep damage tolerance fef on the
+multiaxial biaxial stress state and on the fiber orientation in a general design
+situation we may want to maximize both tf and ef or ie we may want a
+long structural lifetime and a large tolerance to local straining at possible strain
+concentrations in our present example we see by comparing figs and that these
+maxima do not always occur at a common fiber angle suggesting the necessity
+of a design compromise in the selection of the optimal fiber orientation it is
+intended that the simple model presented here may provide guidance for the
+practicing structural engineer in making such design considerations
+summary and conclusions
+a creep and creep damage model is presented for metallic composites with
+strong fibers the intended applications are reinforced structures in which the fiber
+direction may vary throughout but a single fiber direction can be identified locally
+local transverse isotropythe representation of creepdeformation follows earlier work and includes a flow
+potential function that depends on invariants reflecting the local stress and
+material orientation as the focus is on the interaction of creep and damage the
+relatively minor role of primary creep is ignored
+the creep rupture model is a generalization of classical continuum damage
+mechanics and includes an isochronous damage function a taken to depend on
+invariants specifying the maximum tensile stress normal to the local fiber direction
+and the maximum longitudinal shear stress these stress components are assumed to
+damage the composite at the fibermatrix interface eventually causing creep rupture
+it is conjectured that at high temperature and low stress the fibermatrix interface
+plays a role on the mesostructural scale analogous to grain boundaries on the
+microstructural scale an anisotropic damage mechanism is posited where interfacial
+degradation occurs through diffusion and hence stress controlled void growth eg
+kirkendall void growth
+a procedure is outlined for the determination of the several material parameters
+on the basis of creep rupture testing under transverse tension additional testing is
+required to determine the functional dependence and form of the isochronous damage
+function here a linear form is assumed requiring a limited number of creep rupture
+tests under longitudinal shear
+general results are obtained for the time to failure tf and the final effective
+failure strain f under constant multiazial stress each is found to depend not only
+on stress but on fiber orientation thus for a given stress state the model permits
+the selection ofa fiber orientation that may optimize tf andor f according to a
+relevant design criterion
+the theory is applied to a thinwalled tubular pressure vessel with strong fibers
+at an arbitrary helical angle the quantities tf and f are calculated for the thin
+tube as functions of fiber angle as anticipated the rupture time tf is a
+maximimum for circumferential reinforcement of the tube depending on the relative
+strength of the contributions of transverse tension and longitudinal shear to the
+evolution of damage viz the form of the isochronous damage function a tf
+may reach a minimum at an intermediate fiber angle fig the effective final
+strain f can achieve a maximum or a minimum at an intermediate angle again
+depending on the relative importance of transverse tensile and longitudinal sheardamagefig in general simultaneous optimization of tf and f results in a
+design compromise
+the example problem illustrates the potential usefulness of the proposed model
+as a means of realizing optimal designs of composite structures where creep and creep
+rupture are life limiting of course the accuracy of predictions made using the theory
+depends intimately on the forms of the functions and a and on the material
+constants correct choices of these functions and parameters for a given composite
+material rest on careful experimentation some experimental justification for the
+choice of qb is provided in binienda and robinson however the functional
+dependence and form of the isochronous damage function a is largely conjectural
+particularly the linear form adopted here and must be verified on the basis of
+detailed phenomenological and microstructural observation key verification
+experiments are currently being defined
+acknowledgement
+the authors acknowledge the support and encouragement of the nasalewis
+research center in the pursuit of this research especially jr ellis and sm
+arnold prof dn robinson acknowledges support through nasa grant nag
+appendix a references
+ashbymf and dysonbf creep damage mechanics and micromechanics
+procthintconfon fracture new delhi
+biniendawk and robinsondn a creep model for metallic composites based
+on matrix testing application to kanthal compositesto appear jengrmech
+asce
+calladinecr and druckerdc nesting surfaces of constant rate of energy
+dissipation in creep qapplmath
+chuangtj and ricejr the shape of intergranuiar creep cracks growing by
+surface diffusion acta metcocksacf and ashbymf on creep fracture by void growth
+progmatsci
+cocks a c f and ponter a r s creep deformation and failure under
+cyclic thermal loading report university of leicester dept of engr
+to appear j engr and design
+grobsteintl a creep behavior of tungsten fiber reinforced niobium metal
+matrix composites nasa tm 
+grobsteintl b the interface in tungsten fiber reinforced niobium metal
+matrix composites nasa tm 
+ttoki an anisotropic contiuum damage model for creep dominated
+multiaxiai loading historiesphd thesis georgia inst tech
+ttulld and rimmerde the growth of grain boundary voids under
+stress p hilmag 
+kachanovlm time of the fracture process under creep conditions
+izvakadnank ssr on tekhnauk 
+kachanovlm introduction to contiuum damage mechanics martinus 
+nijhoff
+leckiefa and hayhurstdr creep rupture in structures procrsoclond
+a
+leckiefa the micro and macromechanics of creep rupture engrfracture
+mech 
+lemaitrej and chabochejl mechanique des materiaux solides
+dunodparis
+petrasekdw and titranrh creep behavior of tungsten niobium and
+tungsten niobium percent zirconium composites nasa tm 
+rabotnovyn creep problems in structural members north holland
+amsterdam
+robinsondn and duffysf continuum deformation theory for high
+temperature metallic composites jengrmechasceappendix b isotkopic limit
+the isotropic limit of the model expressed in eqs is found by taking
+dij to be an isotropic tensor with dii ie dij ij under this limit
+ in eq becomes
+ib
+and fij in eq is
+fij sij b
+following binienda and robinson we define a new reference stress ao and a
+corresponding creep rate co as
+ao xytro b
+eo eo 
+with these definitions eq b becomes
+and the flow law eq reduces to
+eij s ij 
+o ao n
+as in leckie and hayhurst and leckie 
+similarly eqs and reduce to those of leckie with the function
+a eq taken as
+omax
+a d or a b
+where amax the maximum tensile principal stress
+we note from eq b that the ratio of the reference stress ao of the
+isotropic limit to the transverse reference stress ao of the anisotropic composite is
+ this result is expected in that the material deforms as a j yon mises
+material in the isotropic limit cfeq b whereas under the constraint of thestrong fibers it is forced to deform in transverse tension as a maximum shear stress
+trca material the creep or yield strengths of these material idealizations are in
+the same ratio fgj
+ ai
+ o
+g
+figure piecewise linear isoconous failure surface
+ o
+o t
+a
+b
+c
+figure stress states a longitudinal tension b transverse tension
+clongitudinalshearf
+t
+f
+t
+o o
+figure creep tesponse under reference transverse stress ro
+r
+h
+d sin e d cos e d
+figure helically reinforced thinwalled tube under interior pressure p d denotes
+local fiber directiono degrees
+figure dimensionless rupture time vs fiber anglee
+f
+ i 
+ o 
+ degrees
+figure dimensionless effective failure strain vs for proh n and
+vreport documentation page
+nationalaeronauticsand
+spaceadministration
+ report no government accession no recipients catalog no
+nasa cr
+ title and subtitle report date
+creep and creep rupture of strongly reinforced metallic composites august 
+ performing organization code
+ authors performing organization report no
+dn robinson wk binienda and m mitikavuma none
+ work unit no
+ performing organization name and address
+ contract or grant no
+university of akron
+nag
+akron ohio 
+ type of report and period covered
+contractor report
+ sponsoring agency name and address final
+national aeronautics and space administration
+ sponsoring agency code
+lewis research center
+cleveland ohio 
+ supplementary notes
+project manager steven m arnold structures division nasa lewis research center
+ abstract
+a creep and creep damage theory is presented for metallic composites with strong fibers application is to
+reinforced structures in which the fiber orientation may vary throughout but a distinct fiber direction can be
+identified locally local transverse isotropy the creep deformation model follows earlier work and is based on a
+flow potential function that depends on invariants reflecting stress and the material symmetry as the focus is on
+the interaction of creep and damage primary creep is ignored the creep rupture model is an extension of
+continuum damage mechanics and includes an isochronous damage function that depends on invariants specifying
+the local maximum transverse tension and the maximum longitudinal shear stress it is posited that at high
+temperature and low stress appropriate to engineering practice these stress components damage the fibermatrix
+interface through diffusion controlled void growth eventually causing creep rupture experiments are outlined for
+characterizing a composite through creep rupture tests under transverse tension and longitudinal shear
+applications is made to a thinwalled pressure vessel with reinforcing fibers at an arbitrary helical angle the
+results illustrate the usefulness of the model as a means of achieving optimal designs of composite structures
+where creep and creep rupture are life limiting
+ key words suggested by authors distribution statement
+creep creep rupture composites metallic unclassified unlimited
+viscoplasticity subject category 
+ security classif of this report security classif of this page no of pages price
+unclassified unclassified a
+nasaformoct forsale by the national technical information service springfield virginia

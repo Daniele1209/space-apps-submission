@@ -1,0 +1,231 @@
+n
+stratospheric effects of solar ultraviolet variations on
+the solar rotation time scale
+l l hood
+lunar and planetary laboratory
+university of arizona
+tucson az usa
+the purpose of this paper isto present a summary of some current work on mea
+surement and interpretation ofstratospheric ozone and temperature responses to observed
+shortterm solar ultraviolet variations although some studies have yielded provisional
+evidence for a nearly inphase ozonesolar cycle relationship they extend at most over
+only one or two elevenyear cycles so the statisticalsignificance of the correlations isnot
+large similarly the relativelyshort lengths of individual satellitedata setscombined with
+the problem of estimating the effectofchanges ininstrument sensitivitydriftduring the
+observing period have complicated attempts to inferlongterm or solarcycle ozone trends
+the solarrotation and active region development time scaleprovides an alternate time scale
+forwhich detailed studies of middle atmospheric ozone and temperature responses tosolar
+ultraviolet variabilityare currently possible using available satellitedata setsat tropical
+latitudes where planetary wave amplitudes are relativelysmall clear correlative evidence
+for the existence of middle atmospheric ozone and temperature responses to shortterm
+solar ultraviolet variations has been obtained in recent years gille et al heath
+and schlesinger hood keating et al chan
+dra eckman aikin and smith hood and cantrell 
+these measurements willultimately allow improved empirical and theoretical calculations
+of longerterm solar induced ozone and temperature variations atlow and middle latitudes
+the satelliteremote sensing measurements that are utilizedhere consist ofthe nimbus
+ solar backscattered ultraviolet sbuv daily zonal mean profilesand stratosphere and
+mesosphere sounder sams gridded retrieved temperature data available from the us
+national space science data center in order to characterize variations in solar spectral
+irradiance at wavelengths where photodissociation of molecular oxygen isimportant the
+flux at nm as measured with the sbuv instrument ischosen to be consistent with
+earlierstudies the flux at this wavelength has been found from analyses of sbuv solar
+flux data to be representative of shortterm variations throughout the nm range
+that isof importance forozone photochemistry donnelly et al
+figure compares the nm solarirradiance time serieswith zonally averaged sbuv
+ozone mixing ratios and sams temperatures for the equator at mbar approximately
+ km altitude this altitude ischosen because itisintermediate between the locations
+of the ozone response maximum about kin and the temperature response maximum
+about kin a low latitude isselected because of the increasing seasonal and planetary
+wave amplitudes with increasing latitude which increase the diiicultyofdetecting changes
+caused by solarultravioletvariations daytoday variations and short gaps between daily
+zonal mean temperature ozone and solar ultraviolet time serieswere minimized using a
+day running mean and linear interpolation algorithm
+the nm flux time seriesischaracterized by a broad maximum corresponding to
+the solar activity maximum of and shortterm variations associated with activeregion development and solar rotation the originally measured nm flux data set also
+contains a longterm trend ascribable to instrument drift we have therefore employed the
+mg ii core ratio of heath and schlesinger to represent changes in the 
+nm flux on time scales greater than days the resulting scaled nm flux time series
+normalized to a value of w cm s as measured on november decreases by
+approximately between solar maximum in and late for comparison
+the solar mesosphere explorer satellite has measured a change in monthly mean 
+nm flux of approximately between early and early although instrument
+error sources are still being evaluated g rottman private communication
+the mbar equatorial sams temperature time series bottom panel is charac
+terized by semiannual and annual components with superposed shorterterm fluctuations
+because of the strong temperature dependences of the reaction rates that determine the
+ozone concentration these semiannual and annual temperature variations produce nega
+tively correlated ozone variations as shown in the center panel this characteristic em
+phasizes the need to consider simultaneous temperature measurements when interpreting
+ozone temporal behavior at altitudes and latitudes where photochemical equilibrium is a
+reasonable first approximation finally it should be noted that small interannual trends
+present in both the sbuv and sams measurements could be due in part to instrument
+drift and are not necessarily real
+from the amplitudes of seasonal ozone and temperature variations as well as the
+possibility of instrument related longterm drifts it is clear from figure that detection
+of solar ultraviolet induced ozone or temperature responses on seasonal and longer time
+scales from the currently available nimbus data sets would be very difficult on the
+other hand as can be seen in the top panel day nm flux variations are as large as
+ peaktopeak and are therefore comparable to the probable change in the monthly
+mean flux over a solar cycle consequently most recent efforts to detect and characterize
+middle atmospheric ozone and temperature responses to solar ultraviolet variations have
+concentrated on the solar rotation time scale
+in order to isolate temporal variations on time scales comparable to the solar rota
+tion period all time series may be detrended by subtracting the day running mean in
+each case in order to allow a direct visual comparison of the resulting shortterm 
+nm flux deviations with the ozone and temperature deviations figure superposes the
+uv time series onto the atmospheric time series positive correlations between equatorial
+ mbar ozone variations on this time scale and solar nm flux variations are evident
+this is particularly true during intervals of relatively strong and continuous day solar
+uv variations such as those occurring in october february mayaugust 
+and juneaugust it is apparent from the lower panel of figure that mbar
+temperature deviations are not positively correlated with uv deviations at zero lag how
+ever a tendency for temperature maxima to occur after uv maxima by days can be
+discerned visually in some time intervals particularly october february and
+juneaugust 
+in order to derive the average lowlatitude ozone or temperature response sensitivity to
+observed changes in the nm solar flux crosscorrelation and linear regression methods
+have been applied this sensitivity is defined as the percent change in either ozone mixing
+ratio or temperature for a change in the nm flux also determined is the phase
+lag in days of either ozone or temperature relative to the nm flux in order to test the
+reproducibility of the previous results of hood hood and cantrell 
+analyzed separately the two independent time intervals a and b of figure figureseo
+ams temperature
+ tubal equator
+s
+figure comparison between the sbuv nm solarflux adjusted forlongterm trends
+using the mg iicore ratio of heath and schlesinger and zonal mean equa
+torialozone mixing ratioand temperature at the mbar level
+ a i i i 
+mlr quotor i i ssuv ozone mizimrotio 
+e 
+o
+ijfmamjjasondujfmamjjasondwjfmamj dasondijfmamjjason
+d fjfmamjjasondj fmamjjasondjfmamj jasonoj fmamjjason
+ o i
+intervol a intervol b 
+figure superposition of the detrended sday running mean removed solar nm
+fluxonto the detrended equatorial ozone and temperature time seriesat the mbar level
+from hood and cantrelland summarize their results the ozone response is seen to reach a maximum of about
+ near the mbar level for a change in the nm flux actual peaktopeak ozone
+mixing ratio changes were as large as corresponding to maximum nm flux changes of
+ on the day time scale the temperature response maximizes near the stratopause
+and amounts to about k for a change in the s nm flux actual peakto
+peak temperature changes were as large as k formal error limits for each time interval
+represent standard deviations from the mean of separate estimates for the five latitude
+zones between s and n as shown in figure ozone response amplitudes and
+phase lags derived in these separate analyses are generally in agreement formal error
+limits overlap in all cases except for the response amplitude at mbar which is somewhat
+larger during interval b than during interval a as shown in figure temperature
+response amplitudes and phase lags are also in approximate agreement although formal
+error limits are significantly larger for the response amplitudes temperature phase lags
+below mbar also appear to be somewhat larger during interval b than during interval
+a these response measurements agree well with an independent analysis by keating
+et al of the same year time interval
+the ozone response measurements of figure are compared to two simulations of
+the expected response calculated using radiativephotochemical models the solid lines
+show the response amplitude and phase lag calculated by brasseur et al using
+a onedimensional time dependent radiative photochemical code this simulation is in
+qualitative agreement with the measurements but the amplitude of the calculated ozone
+response is noticeably less than the observed response above about mbar it has been
+suggested that a part of the difference between the model result and the observed ozone
+response is due to the use of diurnally averaged photodissociation rates in the model calcu
+lations hood and douglass have reported calculations using a parameterized
+perturbationorder radiative photochemical model but using a variable solar zenith range
+in the photodissociation calculations that is more appropriate for comparison with the
+sbuv measurements the resulting ozone response amplitude and phase lag are shown in
+figure as dashed lines the increased photodissociation rate changes result in a higher
+amplitude for the ozone response that is more nearly in agreement with the observed
+amplitude at levels below about mbar
+as noted earlier the monthly mean solar nm flux scaled using the mg ii core
+ratio decreases by approximately between solar maximum in and late 
+figure adopting this flux variation the same radiative photochemical code used to
+produce the dashed line model of figure for the day time scale may be applied in
+order to estimate the expected solar cycle variation of ozone mixing ratio at levels between
+ and mbar and at equatorial latitudes results show predicted mean ozone mixing
+ratio decreases of at mbar at mbar and at mbar for the interval
+between solar maximum in and solar minimum in such decreases would be
+small in comparison to seasonal variations and would be difficult to detect relative to other
+natural sources of variability such as the e chichon volcanic eruption the net change in
+the ozone column at low latitudes resulting directly from these upper stratospheric mixing
+ratio decreases would be less than 
+although radiativephotochemical models can yield an approximate agreement with
+the observed ozone responses and phase lags below mbar it is unlikely that the large
+discrepancy between observed and theoretically calculated temperature phase lags figure
+ can be simulated by such models as previously argued by hood and by
+brasseur et al the shortfall of the calculated temperature phase lags resultso
+figure sbuv ozone response amplitudes sensitivities and phase lags determined by
+linear regression for the indicated time intervals error bars are standard deviations from
+the mean for separate regression estimates for five latitude bands centered on the
+equator also shown for comparison are two theoretical profiles see the text after
+hood and douglass 
+ii i 
+ozone octoct 
+ enovsep e
+l brosseuertol 
+os 
+ i e o 
+a i tamrot r oct oct
+ lhood mud doug laj e i 
+e 
+oo ej o
+o responseamplitude
+oii i o 
+i i 
+i i i j i i 
+ oo oozoooo oooo
+e
+ j l oresponseamplitude
+n oi o
+ ofo
+i 
+ o
+ z i g i ei 
+r e o
+ o i i i 
+b phoselog doys
+figure same as figure but for sams temperaturefrom the fact that newtonian cooling lifetimes in the upper stratosphere are relatively
+short eg about days near mbar schoeberl and strobel conse
+quently calculated temperature phase lags for day solar ultraviolet forcing are no more
+than days when only radiative heating is considered it therefore appears that more
+than a onedimensional model that considers only photochemistry and radiative heating
+is needed to provide a complete description of the observed responses at a minimum a
+twodimensional model with coupled dynamics may be required
+references
+aikin ac and h j p smith mesospheric ozone changes associated with day
+solar ultraviolet flux variations geophys res lett i 
+brasseur g a de rudder gm keating and mc pitts response of middle
+atmosphere to shortterm solar ultraviolet variations theory j geophys res 
+chandra s the solar and dynamically induced oscillations in the stratosphere j
+geophys res i 
+donnelly rf d e stevens j barrett and k pfendt shortterm temporal varia
+tions of nimbus measurements of the solar uv spectral irradiance noaa tech mere
+erl arl air resources laboratory silver spring md 
+eckman rs the response of ozone to shortterm variations in the solar ultraviolet
+irradiance observations and interpretation j geophys res 
+gille jc cm smythe and df heath observed ozone response to variations in
+solar ultraviolet radiation science 
+heath df and schlesinger bm the global response of stratospheric ozone to
+ultraviolet solar flux variations in atmospheric ozone cs zerefos and a ghazi eds
+d reidel pub co dordrecht p 
+heath df and schlesinger bm the mg nm doublet as a monitor of changes
+in solar ultraviolet irradiance j geophs res 
+hood l l the temporal behavior of upper stratospheric ozone at low latitudes
+evidence from nimbus buv data for shortterm responses to solar ultraviolet variability
+ geophys res 
+hood l l coupled stratospheric ozone and temperature responses to shortterm
+changes in solar ultraviolet flux an analysis of nimbus sbuv and sams data j
+geophys res 
+hood l l and a douglass stratospheric responses to solar ultraviolet variations
+comparisons with radiativephotochemical models proc quad ozone syrup to appear
+hood l l and s cantrell stratospheric ozone and temperature responses to short
+term solar ultraviolet variations reproducibility of lowlatitude response measurements
+ann geophys 
+keating gm gp brasseur jy nicholson iii and a de rudder detection of
+the response of ozone in the middle atmosphere to shortterm solar ultraviolet variations
+geophys rea lett 
+keating g m j y nicholson iii d f young g brasseur and a de rudder
+response of middle atmosphere to shortterm solar ultraviolet variations observations
+ geophys res 
+schoeberl m r and d f strobel the zonally averaged circulation of the middle
+atmosphere j atmos sci
